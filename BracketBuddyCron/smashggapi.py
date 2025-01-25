@@ -269,7 +269,6 @@ class API:
 
         if "phase" not in tournament_set["phaseGroup"] or tournament_set["phaseGroup"]["phase"] is None:
             tournament_set["phaseGroup"]["phase"] = {
-                "bracketType": "NONE",
                 "phaseOrder": 1,
                 "name": "NONE",
                 "id": "NONE"
@@ -290,7 +289,6 @@ class API:
             "completedAt": tournament_set["completedAt"],
             "wPlacement": tournament_set["wPlacement"],
             "lPlacement": tournament_set["lPlacement"],
-            "bracketType": tournament_set["phaseGroup"]["phase"]["bracketType"],
             "phaseIdentifier": tournament_set["phaseGroup"]["displayIdentifier"],
             "phaseGroupId": tournament_set["phaseGroup"]["id"],
             "phaseOrder": tournament_set["phaseGroup"]["phase"]["phaseOrder"],
@@ -317,9 +315,7 @@ class API:
             "entrantIds": [str(x["entrant"]["id"]) for x in tournament_set["slots"] if x["entrant"] is not None],
             "stream": tournament_set["stream"],
             "isUpsetOrNotable": False,
-            "detailedScore": None,
-            "setGamesType": tournament_set["setGamesType"],
-            "totalGames": tournament_set["totalGames"]
+            "detailedScore": None
         }
         
         try:
