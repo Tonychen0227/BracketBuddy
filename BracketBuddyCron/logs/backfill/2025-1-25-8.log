@@ -1,0 +1,17 @@
+2025-01-25 08:34:18.321479+00:00 - Starting Backfill, Mutex ensured
+2025-01-25 08:34:18.584431+00:00 - Backfilling for the #1 time
+2025-01-25 08:34:28.586269+00:00 - Backfilling for the #2 time
+2025-01-25 08:34:38.587256+00:00 - Backfilling for the #3 time
+2025-01-25 08:34:48.587650+00:00 - Backfilling for the #4 time
+2025-01-25 08:34:48.587650+00:00 - Removing mutex lock
+2025-01-25 08:34:48.843076+00:00 - mutex lock successfully removed
+2025-01-25 08:34:48.843076+00:00 - Backfill complete
+2025-01-25 08:39:17.746460+00:00 - Starting Backfill, Mutex ensured
+2025-01-25 08:39:18.008840+00:00 - Backfilling for the #1 time
+2025-01-25 08:39:18.009843+00:00 - Backfill operation creating new events - 1 of 1
+2025-01-25 08:40:25.268037+00:00 - WTF: Something wrong happened with cosmos create entrants on 1103262, creating 1by1
+2025-01-25 08:41:09.861588+00:00 - Issue backfilling 1103262, skipping
+2025-01-25 08:41:19.862733+00:00 - Backfilling for the #2 time
+2025-01-25 08:41:19.862733+00:00 - Backfill operation creating new events - 1 of 1
+2025-01-25 08:42:14.782271+00:00 - Error None occured calling query Get Upcoming Ult ['event', 'entrants'] with {'eventId': '1103262', 'page': 16}
+2025-01-25 08:42:21.388536+00:00 - WTF: Something wrong happened with cosmos create entrants on 1103262, creating 1by1
