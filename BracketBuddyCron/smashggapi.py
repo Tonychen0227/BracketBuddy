@@ -397,13 +397,13 @@ class API:
             self.logger.log(f"WTF: Shit Happened {return_set['id']}")
             return return_set
 
-    def get_event_sets(self, event_id: str, video_game_id: str, video_game_name: str):
+    def get_event_sets(self, event_id: str, video_game_id: str, video_game_name: str, start_timestamp: int = None):
         query_string = '''
-            query EventSetsQuery($eventId: ID, $page: Int) {
+            query EventSetsQuery($eventId: ID, $page: Int, $updatedAfter: Timestamp) {
               event(id:$eventId) {
                 id
                 sets(page: $page, perPage: 15, sortType:NONE, 
-                  filters:{showByes:false, hideEmpty:true}) {
+                  filters:{showByes:false, hideEmpty:true, updatedAfter: $updatedAfter}) {
                   pageInfo {
                     totalPages
                     perPage
@@ -472,7 +472,10 @@ class API:
             }
             '''
 
-        params = {"eventId": event_id}
+        if start_timestamp is None:
+            start_timestamp = int(datetime.fromisocalendar(1971, 1, 1).timestamp())
+
+        params = {"eventId": event_id, "updatedAfter": start_timestamp}
 
         sets = self.make_paginated_calls(query_string, ["event", "sets"], params)
 

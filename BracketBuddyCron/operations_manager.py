@@ -26,12 +26,16 @@ class OperationsManager:
         return self.cosmos.get_active_current_tournaments()
 
     def update_event_sets(self, event_id, created_event):
+        current_time = int((datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(minutes=3)).timestamp())
+
         event = created_event
 
         video_game_id = event["videoGameId"]
         video_game_name = event["videoGameName"]
 
-        sets = self.api.get_event_sets(event_id, video_game_id, video_game_name)
+        sets = self.api.get_event_sets(event_id, video_game_id, video_game_name,  event["setsLastUpdated"])
+
+        self.cosmos.update_event_sets_last_updated(event_id, current_time)
 
         total_sets = len(sets)
         self.logger.log(f"Updating {total_sets} sets {[x['id'] for x in sets]} for event {event_id} with timestamp {event['setsLastUpdated']}")
