@@ -68,7 +68,7 @@ class OperationsManager:
     def get_and_create_entrants_for_event(self, event_id):
         current_time = int((datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(minutes=10)).timestamp())
 
-        event = self.api.get_event(event_id)
+        event = self.cosmos.get_event(event_id)
 
         entrants_last_updated = event["entrantsLastUpdated"]
         should_do_full_update = False

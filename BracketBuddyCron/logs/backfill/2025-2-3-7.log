@@ -14,3 +14,13 @@
 2025-02-03 07:55:14.003621+00:00 - Starting Backfill, Mutex ensured
 2025-02-03 07:55:14.245710+00:00 - Backfilling for the #1 time
 2025-02-03 07:55:14.246225+00:00 - Backfill operation creating new events - 1 of 1
+2025-02-03 07:55:18.643607+00:00 - Issue backfilling 1103262, skipping
+2025-02-03 07:55:28.646521+00:00 - Backfilling for the #2 time
+2025-02-03 07:55:28.646521+00:00 - Backfill operation creating new events - 1 of 1
+2025-02-03 07:55:32.646602+00:00 - Issue backfilling 1103262, skipping
+2025-02-03 07:55:42.657303+00:00 - Backfilling for the #3 time
+2025-02-03 07:55:42.657844+00:00 - Backfill operation creating new events - 1 of 1
+2025-02-03 07:55:47.071853+00:00 - Issue backfilling 1103262, skipping
+2025-02-03 07:55:47.071853+00:00 - Removing mutex lock
+2025-02-03 07:55:47.319229+00:00 - mutex lock successfully removed
+2025-02-03 07:55:47.319229+00:00 - Backfill complete
