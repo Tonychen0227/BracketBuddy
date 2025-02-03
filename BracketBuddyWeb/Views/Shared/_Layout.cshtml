@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link rel="icon" href="~/Content/discord.png">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top" style="background-color: #3a3b3c">
+        <div class="container">
+            <div class="navbar-header">
+                <a href="@Url.Action(null, "Home")" title="Bracket Buddy" class="links">
+                    <img style="width:20%;margin-top:10px;margin-left:10px;margin-bottom:10px;" alt="Bracket Buddy" src="~/Content/discord.png">
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Bracket Buddy <a href="https://twitter.com/BracketBuddy" target="_blank">
+                    <img src="~/Content/twitter.png" alt="Twitter" style="width:30px;height:30px"/></a><a href="https://discord.gg/pvkazRs84V" target="_blank">
+                    <img src="~/Content/discord.png" alt="Discord" style="width:30px;height:30px"/></a></p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,130 @@
+﻿@model TournamentFilterModel
+
+<div class="jumbotron">
+    <h1>Bracket Buddy</h1>
+    <p class="lead">Welcome to Smash Explorer! Select an event to get started. @Html.ActionLink("FAQ", "Index", "FAQ")</p>
+</div>
+
+<div class="row">
+    @using (Html.BeginForm(null, null, FormMethod.Post))
+    {
+        @Html.HiddenFor(model => model.StartTrackingDate)
+        @Html.HiddenFor(model => model.EndTrackingDate)
+        @Html.HiddenFor(model => model.ErrorMessage)
+        @Html.HiddenFor(model => model.ChosenEventId, new { id = "chosenEventId" })
+        <div class="col-md-4">
+            <div class="form-group">
+                <label for="inputSlug">Tournament slug</label>
+                @Html.TextBoxFor(model => model.Slug, new { @class = "form-control", placeholder = "Enter tournament slug/URL" })
+                <small class="form-text text-muted">E.g. https://start.gg/tournament/genesis-8 or "genesis-8". Dates will be ignored if you pass in URL.</small>
+            </div>
+            <div class="form-group">
+                <label for="startAt">Search start date (UTC)</label>
+                @Html.TextBoxFor(model => model.StartAtAfter, new { type = "date", @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label for="startBefore">Search end date (UTC)</label>
+                @Html.TextBoxFor(model => model.StartAtBefore, new { type = "date", @class = "form-control" })
+                <small class="form-text text-muted">Currently tracking: @Model.StartTrackingDate to @Model.EndTrackingDate </small>
+            </div>
+            @if (Model.ErrorMessage != null)
+            {
+                <p style="color:red">@Model.ErrorMessage</p>
+
+            }
+            <button type="submit" onclick="updateChosenEventId(null)" class="btn btn-primary">Submit</button>
+            @Html.ActionLink("Reset To Default", null, null, null, new { @class = "btn btn-default" })
+        </div>
+        var height = string.IsNullOrEmpty(Model.ChosenEventId) ? "350px" : "150px";
+        <div class="col-md-8" id="eventsTable">
+            <div style="overflow-y: scroll; height: @height ">
+                <table class="table table-hover">
+                    <tr>
+                        <th>Event</th>
+                        <th>Location</th>
+                        <th>Start Time</th>
+                        <th>Entrants</th>
+                    </tr>
+                    @foreach (Event returnedEvent in Model.Events)
+                    {
+                        var items = new List<string>() { returnedEvent.TournamentLocation.City, returnedEvent.TournamentLocation.AddrState, returnedEvent.TournamentLocation.CountryCode };
+                        <tr>
+                            <td>
+                                <a href="https://www.start.gg/@returnedEvent.Slug" target="_blank">@returnedEvent.TournamentName - @returnedEvent.Name</a>
+                            </td>
+                            @if (items.Where(x => !string.IsNullOrEmpty(x)).Count() == 0)
+                            {
+                                <td>
+                                    No location
+                                </td>
+                            }
+                            else
+                            {
+                                
+                                <td>
+                                    @string.Join(", ", items.Where(x => !string.IsNullOrEmpty(x)))
+                                </td>
+                            }
+                            <td>
+                                @DateTimeOffset.FromUnixTimeSeconds(returnedEvent.StartAt).ToString("g") UTC
+                            </td>
+                            <td>@returnedEvent.NumEntrants</td>
+                            <td><button onclick="updateChosenEventId(@returnedEvent.Id)" type="submit" class="btn btn-primary">Select</button></td>
+                        </tr>
+                    }
+                </table>
+            </div>
+                            @if (!string.IsNullOrEmpty(Model.ChosenEventId))
+                {
+                    <p>You have chosen event <strong>@Model.ChosenEventId</strong></p>
+                }
+        </div>
+    }
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <h2>Explore</h2>
+        <p>
+            Allows you to select entrants (next page) and then generate a link to follow your selected entrants through the rest of the tournament.
+        </p>
+        @if (string.IsNullOrEmpty(Model.ChosenEventId))
+        {
+            <button style="display:inline-block" type="button" class="btn btn-default" disabled>Only available after selecting an event</button>
+        }
+        else
+        {
+            @Html.ActionLink("Explore Entrants", null, "SelectEntrants", new { id = Model.ChosenEventId }, new { @class = "btn btn-default", target = "_blank" })
+        }
+    </div>
+    <div class="col-md-4">
+        <h2>Upsets</h2>
+        <p>See what upsets happened so far at this tournament. Notable sets also included - sets that went to last game, but the upset was not completed.</p>
+        @if (string.IsNullOrEmpty(Model.ChosenEventId))
+        {
+            <button style="display:inline-block" type="button" class="btn btn-default" disabled>Only available after selecting an event</button>
+        }
+        else
+        {
+            @Html.ActionLink("Check Upsets", null, "Upsets", new { id = Model.ChosenEventId }, new { @class = "btn btn-default", target = "_blank" })
+        }
+    </div>
+    <div class="col-md-4">
+        <h2>Seed Visualizer</h2>
+        <p>Check out how well the event was seeded. SPR = how much farther (in terms of rounds) someone went vs what they were seeded to get. Top 128 Only.</p>
+        @if (string.IsNullOrEmpty(Model.ChosenEventId))
+        {
+            <button style="display:inline-block" type="button" class="btn btn-default" disabled>Only available after selecting an event</button>
+        }
+        else
+        {
+            @Html.ActionLink("Seed Visualizer", null, "SeedVisualizer", new { id = Model.ChosenEventId }, new { @class = "btn btn-default", target = "_blank" })
+
+        }
+    </div>
+</div>
+
+<script>
+    function updateChosenEventId(eventId) {
+        document.getElementById("chosenEventId").value = eventId;
+    }
+</script>

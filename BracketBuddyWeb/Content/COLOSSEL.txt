@@ -1,0 +1,1933 @@
+
+Pool B7
+SEA | Artsnif 2 - Gwosh 0
+MCorp | CRC | José le plombier 2 - HP 0
+HP W - SHZ | Octave DQ
+ING | Raiden W - SHZ | Octave DQ
+Evolt 2 - Eroking 0
+Pom 2 - Kos 0
+ES | RyuKai W - Bidoof DQ
+Faifre 2 - Melody 0
+MCorp | Bright W - LDS | KAZAM DQ
+Bidoof W - LDS | KAZAM DQ
+Lostik | Mirio 2 - BPP | Akai 0
+Claw 2 - TLS | turbomario 0
+Checkpoint | Gnaark W - Jakob DQ
+Joni 2 - Neytram 0
+Melody W - Jakob DQ
+Sonaku 2 - wsoox 0
+GT | Zequar 2 - Lexiique 0
+ANKAA | eMass 2 - Sheriks 0
+shmax 1 - Amoll 2
+BPP | Akai 2 - Eroking 0
+MCorp | CRC | José le plombier 2 - ING | Raiden 0
+ES | RyuKai 2 - MCorp | Bright 0
+Lostik | Mirio 2 - Evolt 0
+Gwosh 0 - wsoox 2
+SEA | Artsnif 2 - Sonaku 0
+Sheriks 0 - Kos 2
+Faifre 2 - Checkpoint | Gnaark 0
+GT | Zequar 0 - Claw 2
+GT | Zequar W - Bidoof DQ
+Lexiique 2 - TLS | turbomario 0
+Neytram 2 - shmax 0
+ING | Raiden 0 - Melody 2
+ANKAA | eMass 2 - Pom 0
+Evolt 2 - wsoox 0
+Sonaku 2 - BPP | Akai 0
+Joni 1 - Amoll 2
+MCorp | Bright 2 - Lexiique 0
+GT | Zequar 2 - Sonaku 0
+Checkpoint | Gnaark 2 - HP 1
+Joni 2 - Kos 0
+Evolt 2 - MCorp | Bright 0
+SEA | Artsnif 2 - Claw 1
+Pom 1 - Neytram 2
+ES | RyuKai 1 - Lostik | Mirio 2
+Faifre 2 - Amoll 0
+ANKAA | eMass 2 - MCorp | CRC | José le plombier 0
+Joni 2 - Checkpoint | Gnaark 0
+Melody 0 - Neytram 2
+Amoll 0 - GT | Zequar 2
+Claw 0 - Joni 2
+MCorp | CRC | José le plombier 2 - Evolt 1
+ES | RyuKai 2 - Neytram 0
+GT | Zequar 0 - ES | RyuKai 2
+Lostik | Mirio 0 - Faifre 2
+Joni 2 - MCorp | CRC | José le plombier 1
+ANKAA | eMass 2 - SEA | Artsnif 1
+Lostik | Mirio 0 - Joni 2
+SEA | Artsnif 0 - ES | RyuKai 2
+SEA | Artsnif 2 - Gwosh 0
+MCorp | CRC | José le plombier 2 - HP 0
+ING | Raiden W - SHZ | Octave DQ
+
+Pool A6
+BSK/CEW | Bluesky 2 - Frips 0
+DarkThunder 2 - Jackenouille 0
+[CENS] [PNO] | Jazzpunk 2 - L0BBY 0
+ZEPHYR | ChirurChien 2 - Flight 0
+Mad Ice King 2 - Dr.Human 0
+ELS | Amadeus 2 - MYI | TaDavidID 0
+Maxisam 2 - LC | teluoborg 0
+TND/THS/SSM | Spider 2 - Grorouch 0
+KumaN3ko 2 - Zukey 0
+B&B | Ikanger 0 - Eagles | Taiyo 2
+XCido W - Dream (Right) DQ
+Ipove 2 - Escrown 1
+DC | Bassos 2 - R-B | Tyoka 0
+Jackenouille 0 - LC | teluoborg 2
+DarkThunder 2 - Maxisam 0
+Mad Ice King 2 - ELS | Amadeus 0
+ZEPHYR | ChirurChien 2 - Eagles | Taiyo 0
+[CENS] [PNO] | Jazzpunk 2 - TND/THS/SSM | Spider 0
+Echo | Linck 0 - BS | sp0derr 2
+Echo | Linck W - Dream (Right) DQ
+Dr.Human 0 - MYI | TaDavidID 2
+Zukey 0 - Escrown 2
+MCorp | Andry 2 - Demat | DMTT 1
+L0BBY 2 - Grorouch 1
+Flight 0 - B&B | Ikanger 2
+Frips 0 - R-B | Tyoka 2
+BSK/CEW | Bluesky 2 - DC | Bassos 0
+Gin 2 - AZ 0
+XCido 2 - BS | sp0derr 0
+KumaN3ko 1 - Ipove 2
+Eagles | Taiyo 2 - MYI | TaDavidID 0
+ELS | Amadeus 0 - B&B | Ikanger 2
+TND/THS/SSM | Spider 2 - R-B | Tyoka 0
+Mad Ice King 1 - [CENS] [PNO] | Jazzpunk 2
+Gin 2 - MCorp | Andry 0
+BS | sp0derr 2 - LC | teluoborg 0
+Maxisam 2 - Echo | Linck 1
+AZ 0 - Demat | DMTT 2
+DarkThunder 2 - Ipove 1
+KumaN3ko 2 - Demat | DMTT 0
+BSK/CEW | Bluesky 2 - ZEPHYR | ChirurChien 0
+DC | Bassos 1 - L0BBY 2
+TND/THS/SSM | Spider 2 - B&B | Ikanger 0
+Gin 2 - XCido 0
+MCorp | Andry 2 - Escrown 1
+DarkThunder 2 - [CENS] [PNO] | Jazzpunk 0
+KumaN3ko 2 - Maxisam 0
+Eagles | Taiyo 2 - L0BBY 1
+BS | sp0derr 2 - MCorp | Andry 0
+XCido 2 - TND/THS/SSM | Spider 0
+ZEPHYR | ChirurChien 1 - KumaN3ko 2
+BSK/CEW | Bluesky 1 - Gin 2
+Mad Ice King 2 - BS | sp0derr 0
+Ipove 1 - Eagles | Taiyo 2
+XCido 0 - KumaN3ko 2
+Mad Ice King 2 - Eagles | Taiyo 0
+[CENS] [PNO] | Jazzpunk 2 - KumaN3ko 0
+BSK/CEW | Bluesky 2 - Mad Ice King 0
+
+Pool B5
+Endha W - Bratsandio DQ
+ES | Nitox 2 - Padamart 0
+Sei Li 2 - Ylonn 0
+R.A.R | MadaraCmaDaronne 2 - ME | cookiespy~ 0
+Astora 0 - OAG | ZarK 2
+GS | Kronk 2 - R-B | Nixop 0
+PCS | ALtek 2 - FITOU | Flayce 0
+KG | Torynk 2 - SylK 0
+Pulsar | Rony 2 - LegendaryNono 0
+Réhann 2 - TM | YIT 0
+UEA | Coolkingz 2 - Gunpix 0
+kipferl 2 - HuB | Kokoro 0
+BPP | Piwix 2 - RRRrrrr!!! 0
+Master W - I HATE MINIMO!! DQ
+Bratsandio W - I HATE MINIMO!! DQ
+GS | Kronk 0 - Sei Li 2
+R-B | Nixop 2 - Ylonn 0
+Gawain 1 - Azertitop 2
+FITOU | Flayce 0 - Astora 2
+Padamart 2 - ME | cookiespy~ 0
+LegendaryNono 0 - Gunpix 2
+ES | Nitox 2 - R.A.R | MadaraCmaDaronne 0
+Pulsar | Rony 2 - UEA | Coolkingz 0
+PCS | ALtek 1 - OAG | ZarK 2
+Master 2 - Endha 0
+SylK 2 - HuB | Kokoro 0
+KG | Torynk 2 - kipferl 0
+CBVT | Sorbexos 1 - Burzof 2
+kipferl W - Bratsandio DQ
+Réhann 2 - Azertitop 0
+TM | YIT 2 - Gawain 0
+PCS | ALtek 2 - Gunpix 0
+UEA | Coolkingz 0 - Astora 2
+OAG | ZarK 0 - KG | Torynk 2
+BPP | Piwix 2 - Burzof 0
+RRRrrrr!!! 0 - CBVT | Sorbexos 2
+Azertitop 2 - R-B | Nixop 0
+Endha 1 - SylK 2
+ES | Nitox 2 - Sei Li 0
+GS | Kronk 2 - TM | YIT 0
+Burzof 2 - Padamart 0
+kipferl 0 - PCS | ALtek 2
+Réhann 2 - BPP | Piwix 0
+Master 1 - Pulsar | Rony 2
+R.A.R | MadaraCmaDaronne 1 - CBVT | Sorbexos 2
+Burzof 0 - Azertitop 2
+ES | Nitox 2 - Pulsar | Rony 0
+Sei Li 0 - PCS | ALtek 2
+Astora 2 - SylK 0
+KG | Torynk 1 - Réhann 2
+BPP | Piwix 2 - Astora 0
+GS | Kronk 2 - CBVT | Sorbexos 1
+Master 2 - Azertitop 1
+OAG | ZarK 0 - GS | Kronk 2
+Master 1 - PCS | ALtek 2
+BPP | Piwix 1 - GS | Kronk 2
+KG | Torynk 2 - PCS | ALtek 0
+Pulsar | Rony 2 - GS | Kronk 1
+
+Pool C2
+IZI | MoDzai W - TFS | Champi_S DQ
+Rozariot W - CJVParisSaclay | Physis DQ
+eYa | Hover 2 - Bravewryy 0
+Noxumbra W - Pinchy DQ
+HuB | Phreakys W - zeyus DQ
+ZBD 2 - Roakimbo 0
+KayForeign | K4N 2 - SEUM | DOUDS 0
+Bravewryy W - CJVParisSaclay | Physis DQ
+KhawenXh 0 - S-Critical 2
+Oui 2 - TBM | Zora 0
+NIL | Fancy 2 - heenok 0
+eLS | rohan doge 2 - OLAF 0
+Armaguedin 2 - MtPn | Hukyo 0
+Magic' 2 - HuB | Saltina 0
+MtPn | Hukyo W - Pinchy DQ
+Tag 2 - MCorp | Kajja 0
+Dragsbro W - TFS | Champi_S DQ
+MCorp | Kajja W - zeyus DQ
+eYa | Hover 2 - Rozariot 0
+Dragsbro 1 - Rotaryon | Simnil 2
+DEH | KumaSter 1 - Jobo 2
+SEUM | DOUDS 0 - TBM | Zora 2
+Tag 2 - HuB | Phreakys 0
+Roakimbo 0 - HuB | Saltina 2
+IZI | MoDzai 2 - Rotaryon | Simnil 0
+Noxumbra 2 - Armaguedin 0
+Rozariot 2 - MCorp | Kajja 0
+KayForeign | K4N 1 - Oui 2
+eLS | rohan doge 2 - Jobo 0
+OLAF 1 - DEH | KumaSter 2
+ZBD 2 - Magic' 1
+heenok W - S-Critical DQ
+NIL | Fancy 2 - KhawenXh 0
+HuB | Phreakys 2 - Bravewryy 0
+Armaguedin 2 - HuB | Saltina 0
+IZI | MoDzai 2 - Oui 0
+Jobo 0 - TBM | Zora 2
+eYa | Hover 2 - ZBD 0
+Magic' 2 - MtPn | Hukyo 0
+KayForeign | K4N 2 - DEH | KumaSter 0
+KhawenXh 2 - Dragsbro 0
+HuB | Phreakys 2 - Armaguedin 0
+eLS | rohan doge 1 - NIL | Fancy 2
+Rotaryon | Simnil 2 - heenok 0
+Noxumbra 2 - Tag 0
+IZI | MoDzai 2 - eYa | Hover 1
+Magic' 2 - Rozariot 1
+Oui 2 - HuB | Phreakys 0
+KhawenXh 0 - TBM | Zora 2
+eLS | rohan doge 2 - Magic' 0
+Tag 0 - Rotaryon | Simnil 2
+ZBD 2 - TBM | Zora 1
+eLS | rohan doge 2 - Rotaryon | Simnil 1
+ZBD 2 - Oui 0
+eYa | Hover 2 - eLS | rohan doge 0
+Noxumbra 2 - NIL | Fancy 0
+KayForeign | K4N 1 - Rotaryon | Simnil 2
+NIL | Fancy 2 - ZBD 1
+
+Pool C1
+Pollares W - Supahsemmie DQ
+Aiikun W - KnK | Lomens DQ
+GCSE Comp Sci | Luugi W - PIPOU DQ
+Protos 0 - Hildulyr 2
+Bousculade W - BABAR DQ
+CRC | Astrat 2 - ST | AWildKrapo 0
+Dasher 2 - TRS | Leixou 0
+Bac 2 - FC Boulkipik | HeartEmolga 0
+Honor 2 - Mazziel 1
+Nayden-X 2 - DC | R-B | Captain Falcum 0
+FC Boulkipik | HeartEmolga W - BABAR DQ
+Hasukï | | Tigers 2 - Niguz 0
+Mazziel W - Supahsemmie DQ
+TRS | Leixou W - KnK | Lomens DQ
+Hikaru91 W - DarkSheep DQ
+CHEF! 1 - v 2
+WpZ | Holo 0 - UK | ChainZ 2
+WpZ | Holo W - PIPOU DQ
+Dagobert 2 - Waya 0
+Dasher 2 - Aiikun 0
+Hasukï | | Tigers 2 - Hildulyr 0
+SAM | Daiki 2 - MCorp | Adel 0
+MCorp | Adel W - DarkSheep DQ
+Pollares 0 - Honor 2
+GCSE Comp Sci | Luugi 2 - UK | ChainZ 0
+Niguz 1 - Protos 2
+Bac 2 - Bousculade 1
+Dagobert 2 - Nayden-X 0
+Waya 0 - DC | R-B | Captain Falcum 2
+CRC | Astrat 2 - v 0
+ST | AWildKrapo 1 - CHEF! 2
+Pollares 0 - MCorp | Adel 2
+Bousculade 2 - TRS | Leixou 0
+Aiikun 2 - FC Boulkipik | HeartEmolga 0
+Honor 0 - Dasher 2
+GCSE Comp Sci | Luugi 2 - Dagobert 0
+Hildulyr 2 - DC | R-B | Captain Falcum 0
+Nayden-X 2 - Protos 0
+SAM | Daiki 0 - Hikaru91 2
+v 2 - WpZ | Holo 0
+UK | ChainZ 0 - CHEF! 2
+Bac 2 - Hikaru91 0
+Hasukï | | Tigers 0 - CRC | Astrat 2
+SAM | Daiki 0 - Mazziel 2
+Nayden-X 2 - CHEF! 0
+Aiikun 1 - MCorp | Adel 2
+v 2 - Hildulyr 1
+Honor 0 - Nayden-X 2
+Mazziel 1 - Bousculade 2
+Dasher 1 - CRC | Astrat 2
+Dagobert 2 - MCorp | Adel 0
+Hikaru91 2 - v 0
+Hasukï | | Tigers 2 - Bousculade 0
+Hikaru91 0 - Dagobert 2
+GCSE Comp Sci | Luugi 2 - Bac 0
+Hasukï | | Tigers 2 - Nayden-X 0
+Dasher 0 - Dagobert 2
+Bac 0 - Hasukï | | Tigers 2
+Pollares W - Supahsemmie DQ
+Honor 2 - Mazziel 1
+
+Pool A7
+HSG | Homika 2 - Rotaryon | Oppentrapp 0
+Heydelios W - Lily DQ
+Adrian 2 - Niels 0
+Mamoru 0 - Unsinnlos 2
+SSP | Longo 2 - VGY | Haff 0
+TORN W - R&S | ShiiroNeko DQ
+ClownKart 2 - KOMA 0
+VGY | Haff W - R&S | ShiiroNeko DQ
+Grémont 2 - GO | Libérez Walid 0
+Mazzer 2 - Larsice 0
+TSKFC 2 - Kaname 0
+kngwizard 2 - MCorp | Mogabou 0
+SFG | Hugeaux 2 - Don 0
+Nirudy 2 - Chopperflame 0
+DaSquoixz 2 - UwU | Aisu 1
+30% Brulter 2 - 404 | Miden 1
+TCM | hirschi 1 - Underkowe 2
+TCM | hirschi W - Lily DQ
+SSP | Longo 2 - TORN 0
+Larsice 0 - Mamoru 2
+Adrian 2 - kngwizard 0
+ClownKart 2 - Nirudy 0
+HSG | Homika 2 - 30% Brulter 0
+Rotaryon | Oppentrapp 0 - 404 | Miden 2
+Niels 0 - MCorp | Mogabou 2
+Don 1 - GO | Libérez Walid 2
+KOMA 2 - Chopperflame 0
+TSKFC 2 - DaSquoixz 0
+Mazzer 0 - Unsinnlos 2
+Heydelios 2 - Underkowe 0
+Kaname 1 - UwU | Aisu 2
+kngwizard 2 - TCM | hirschi 0
+TORN 0 - Mamoru 2
+30% Brulter 0 - GO | Libérez Walid 2
+SFG | Hugeaux 2 - Grémont 1
+Mazzer 2 - VGY | Haff 0
+DaSquoixz 2 - KOMA 0
+Nirudy 2 - UwU | Aisu 0
+Underkowe 2 - MCorp | Mogabou 1
+SSP | Longo 2 - ClownKart 0
+Grémont 2 - 404 | Miden 0
+HSG | Homika 2 - Heydelios 0
+TSKFC 0 - Unsinnlos 2
+Underkowe 2 - GO | Libérez Walid 1
+Mazzer 1 - DaSquoixz 2
+Nirudy 2 - Mamoru 1
+Adrian 0 - SFG | Hugeaux 2
+Grémont 1 - kngwizard 2
+ClownKart 2 - Underkowe 1
+TSKFC 2 - kngwizard 0
+Adrian 2 - DaSquoixz 0
+Heydelios 2 - Nirudy 0
+HSG | Homika 2 - Unsinnlos 0
+TSKFC 2 - Heydelios 0
+SSP | Longo 2 - SFG | Hugeaux 0
+Adrian 2 - ClownKart 1
+SFG | Hugeaux 0 - TSKFC 2
+Unsinnlos 0 - Adrian 2
+
+Pool C5
+lowkey W - NoWeaver | Colman DQ
+SJT | Loris W - ES | Noàh DQ
+EDM | Bloom4Eva W - Baia DQ
+Ashers 2 - Toxa 0
+Davianel 2 - luc 0
+NeoChronos 2 - Az'rael 0
+ONI | matrega 2 - DC | Bluemax 0
+AF | SkWiirrel 2 - Funkybig 0
+Toxa W - Baia DQ
+TRS | Kaga 2 - R-B | Lopiaz 0
+Yox 2 - Jojouf 0
+W4wambo 2 - COLMAR | Other 0
+mYi | Kepler 2 - Spix_ | Aiden 0
+Spix_ | Aiden W - ES | Noàh DQ
+IZI | VinS 2 - DGZ | Mykeul 0
+DGZ | Mykeul W - NoWeaver | Colman DQ
+AMZ | Aksiro 2 - SM | Val'Kiri 0
+Yan 1 - ONI | Sakaido 2
+EDM | Bloom4Eva 2 - Ashers 0
+Az'rael 0 - Jojouf 2
+Davianel 2 - TRS | Kaga 0
+mYi | Kepler 2 - SJT | Loris 0
+September 2 - Glix 1
+NeoChronos 2 - Yox 0
+luc 0 - R-B | Lopiaz 2
+ONI | matrega 1 - W4wambo 2
+DC | Bluemax 0 - COLMAR | Other 2
+IZI | VinS 2 - lowkey 0
+AMZ | Aksiro 2 - ONI | Sakaido 0
+SM | Val'Kiri 1 - Yan 2
+SJT | Loris 0 - R-B | Lopiaz 2
+EDM | Bloom4Eva 2 - W4wambo 0
+AF | SkWiirrel 2 - September 0
+ONI | matrega 2 - DGZ | Mykeul 0
+Funkybig 1 - Glix 2
+lowkey 2 - COLMAR | Other 0
+Ashers 2 - Yan 1
+TRS | Kaga 2 - Spix_ | Aiden 1
+IZI | VinS 2 - AMZ | Aksiro 1
+mYi | Kepler 1 - NeoChronos 2
+ONI | Sakaido 2 - Toxa 1
+AF | SkWiirrel 2 - Davianel 0
+September 2 - Jojouf 0
+ONI | matrega 0 - Ashers 2
+Yox 2 - Glix 1
+TRS | Kaga 0 - September 2
+Davianel 2 - Ashers 0
+AF | SkWiirrel 2 - IZI | VinS 0
+ONI | Sakaido 2 - lowkey 0
+Yox 2 - R-B | Lopiaz 1
+EDM | Bloom4Eva 2 - NeoChronos 0
+W4wambo 2 - September 1
+AMZ | Aksiro 2 - Yox 0
+mYi | Kepler 2 - ONI | Sakaido 1
+AMZ | Aksiro 2 - Davianel 0
+mYi | Kepler 2 - W4wambo 0
+NeoChronos 2 - AMZ | Aksiro 0
+IZI | VinS 2 - mYi | Kepler 0
+
+Pool A5
+NSI | | MrChef 2 - Geta 0
+ASPTT | Leodagant 2 - SE | | suri 0
+Murli W - S&B | ごくでら DQ
+PGE | BilBol W - Swurkles DQ
+Zeffroi W - DC | Shiko DQ
+Geta W - S&B | ごくでら DQ
+Bastos 2 - Herteit 0
+Mariuuu 2 - memes | razenoku 0
+BG | Pepo 2 - ST | SpaceSheep 0
+Pendulum 0 - DKHo 2
+ST | SpaceSheep W - DC | Shiko DQ
+Dazed 2 - Elyonne 0
+Taka 2 - Smacht | Ido Orkan 0
+Fogu 2 - KFC | frite 1
+Elgoumi 2 - THS | MaxD 1
+Smacht | Ido Orkan W - Swurkles DQ
+UDking 0 - Rotaryon | RikeRak 2
+NSI | | MrChef 2 - Murli 0
+Bastos 2 - DKHo 0
+Flow 2 - Pwcca 0
+YTK | Dadlab 2 - Starwouaf 1
+Herteit 0 - Pendulum 2
+Elgoumi 0 - Mariuuu 2
+THS | MaxD 2 - memes | razenoku 0
+Elyonne 0 - KFC | frite 2
+Dazed 2 - Fogu 1
+SE | | suri 0 - Starwouaf 2
+PGE | BilBol 2 - Taka 1
+Pwcca 0 - UDking 2
+DKHo 2 - Geta 0
+Murli 2 - Pendulum 0
+Flow 2 - Rotaryon | RikeRak 1
+ASPTT | Leodagant 2 - YTK | Dadlab 0
+BG | Pepo 2 - Zeffroi 0
+Fogu 2 - ST | SpaceSheep 0
+Elgoumi 2 - Starwouaf 0
+Bastos 0 - PGE | BilBol 2
+Taka 2 - UDking 0
+Flow 2 - NSI | | MrChef 0
+ASPTT | Leodagant 2 - Dazed 0
+Rotaryon | RikeRak 2 - Smacht | Ido Orkan 0
+YTK | Dadlab 0 - THS | MaxD 2
+Zeffroi 2 - KFC | frite 0
+BG | Pepo 2 - Mariuuu 0
+Fogu 2 - THS | MaxD 0
+Taka 1 - DKHo 2
+Elgoumi 2 - Zeffroi 0
+Murli 0 - Rotaryon | RikeRak 2
+Bastos 2 - Fogu 0
+Dazed 2 - DKHo 0
+Mariuuu 2 - Rotaryon | RikeRak 0
+NSI | | MrChef 0 - Elgoumi 2
+Flow 2 - ASPTT | Leodagant 0
+Bastos 2 - Mariuuu 0
+Dazed 1 - Elgoumi 2
+ASPTT | Leodagant 0 - Bastos 2
+BG | Pepo 0 - PGE | BilBol 2
+BG | Pepo 0 - Elgoumi 2
+
+Pool D4
+Saturn W - Papymakecoffee DQ
+quiK 2 - Strataegyc | PekxSovann 0
+NMD | Atsuchy W - honey_o DQ
+Dr. Michael Morbius 2 - Reddy 0
+FCG | Nonocolors 2 - Edgar 0
+DC | JG W - Aristocrate DQ
+Crow 2 - CLFD | GaBit 0
+F9 | Eko 2 - Grounty 0
+Edgar W - honey_o DQ
+Azarel 0 - Crazy Bzh | La Reine du Garage 2
+Maxou 2 - EQUIPIER | SarreNy 0
+Nives 2 - Rainbow 0
+PGE | Suikrom 2 - Joycey 0
+Le Shibateur 2 - Negato77 0
+FCG | Nonocolors 2 - NMD | Atsuchy 0
+Joycey W - Aristocrate DQ
+bop.gg | DoomoBebop 0 - jsm 2
+Grounty 2 - Azarel 0
+Susgus 2 - Tonios 1
+marcpq 2 - R-B | Vico 0
+R-B | Vico W - Papymakecoffee DQ
+F9 | Eko 2 - Crazy Bzh | La Reine du Garage 1
+Negato77 0 - CLFD | GaBit 2
+Maxou 2 - Nives 1
+PGE | Suikrom 2 - DC | JG 0
+Le Shibateur 2 - Crow 1
+EQUIPIER | SarreNy 1 - Rainbow 2
+quiK 2 - jsm 0
+Dr. Michael Morbius 2 - Susgus 1
+Strataegyc | PekxSovann 2 - bop.gg | DoomoBebop 1
+Nives 2 - Grounty 0
+Reddy 1 - Tonios 2
+marcpq 2 - Saturn 0
+DC | JG 2 - R-B | Vico 0
+Susgus 0 - Edgar 2
+Crow 2 - Strataegyc | PekxSovann 0
+F9 | Eko 2 - Le Shibateur 1
+quiK 2 - Maxou 0
+Crazy Bzh | La Reine du Garage 2 - Rainbow 1
+NMD | Atsuchy 0 - Tonios 2
+jsm 2 - CLFD | GaBit 1
+FCG | Nonocolors 2 - PGE | Suikrom 1
+marcpq 2 - Dr. Michael Morbius 1
+Saturn 1 - Joycey 2
+Crow 0 - Crazy Bzh | La Reine du Garage 2
+DC | JG 2 - Tonios 1
+Nives 1 - jsm 2
+marcpq 0 - F9 | Eko 2
+PGE | Suikrom 2 - Crazy Bzh | La Reine du Garage 0
+Edgar 1 - Joycey 2
+Dr. Michael Morbius 2 - jsm 0
+Le Shibateur 2 - DC | JG 0
+Maxou 2 - Joycey 0
+PGE | Suikrom 2 - Maxou 0
+Le Shibateur 1 - Dr. Michael Morbius 2
+quiK 2 - FCG | Nonocolors 0
+marcpq 0 - PGE | Suikrom 2
+FCG | Nonocolors 0 - Dr. Michael Morbius 2
+
+Pool B8
+PHZ | Lancelot 2 - Kely 0
+louray W - KnK | DLord DQ
+G4'S | Astral W - Kozzuku DQ
+MS | Ma T_T eO 0 - Jaeger 2
+DGD | Baylie W - TF | Scorpion DQ
+BDS | Kimbo 2 - SpikyGordo 0
+ABFT | Hadri 2 - Metaux 0
+AUK | Discodog 2 - VeridisQuo 0
+Kuzuha 2 - SE | Yarai 0
+CB | Scyro 2 - Mcorp | Nekoco 0
+ES | TriM 2 - Tech Chase | Dracodenti 0
+BLZ | SkinWood 2 - Teraxil 0
+Visage Pâle 1 - Sourif 2
+Checkpoint | Hayrot 2 - shemesh 1
+S&B | Sfar 2 - N-W 0
+Ykseew 2 - Ikaar 0
+SE | Yarai W - Kozzuku DQ
+Tech Chase | Dracodenti W - KnK | DLord DQ
+N-W W - TF | Scorpion DQ
+VeridisQuo 0 - MS | Ma T_T eO 2
+PHZ | Lancelot 2 - Sourif 0
+Kuzuha 2 - G4'S | Astral 0
+DGD | Baylie 0 - S&B | Sfar 2
+Kely 1 - Visage Pâle 2
+ES | TriM 2 - louray 0
+BDS | Kimbo 2 - BLZ | SkinWood 1
+CB | Scyro 2 - ABFT | Hadri 0
+AUK | Discodog 2 - Jaeger 1
+Mcorp | Nekoco 1 - Metaux 2
+Ykseew 1 - Checkpoint | Hayrot 2
+Ikaar 1 - shemesh 2
+Sourif 2 - N-W 0
+SpikyGordo 1 - Teraxil 2
+DGD | Baylie 0 - Visage Pâle 2
+louray 0 - MS | Ma T_T eO 2
+BDS | Kimbo 2 - S&B | Sfar 0
+ES | TriM 2 - Kuzuha 0
+BLZ | SkinWood 1 - Metaux 2
+ABFT | Hadri 2 - Teraxil 0
+Ykseew 2 - SE | Yarai 0
+Jaeger 2 - Tech Chase | Dracodenti 1
+PHZ | Lancelot 2 - CB | Scyro 0
+G4'S | Astral 2 - shemesh 1
+Visage Pâle 2 - Metaux 0
+ABFT | Hadri 0 - Sourif 2
+Jaeger 1 - Ykseew 2
+G4'S | Astral 1 - MS | Ma T_T eO 2
+ES | TriM 2 - BDS | Kimbo 1
+Checkpoint | Hayrot 0 - AUK | Discodog 2
+S&B | Sfar 0 - Ykseew 2
+Kuzuha 2 - Sourif 1
+CB | Scyro 2 - MS | Ma T_T eO 0
+Checkpoint | Hayrot 2 - Visage Pâle 0
+Ykseew 2 - Kuzuha 0
+Checkpoint | Hayrot 2 - CB | Scyro 0
+BDS | Kimbo 0 - Checkpoint | Hayrot 2
+PHZ | Lancelot 2 - AUK | Discodog 0
+AUK | Discodog 2 - Ykseew 1
+
+Pool A4
+Nalya W - MNDM | Tooky DQ
+THS | Xehamork W - Melkanobi DQ
+S&B | Bibliburst W - Pihutte DQ
+The Wizard W - UBI | Pandaroux DQ
+Knowit | Raikoss W - Cake DQ
+Bahaldrish W - Inkarnation DQ
+ABFT | Spike_lee 2 - FCP | PoireGG 0
+GG | Tarik 2 - R212 | aNA 0
+plan-B | Yetey 2 - Itrezan 0
+Polinomis 2 - bunnea 0
+BSK | Shinshikun 2 - Bouboune 0
+Marius 2 - Justplay 0
+Justplay W - Melkanobi DQ
+MNDM | Tooky W - Pihutte DQ
+UBI | Pandaroux W - Cake DQ
+Horde | Bengus 2 - Drimea 1
+Nadyys 1 - IIE | BabyRage 2
+IIE | BabyRage W - Bahaldrish DQ
+Nadyys W - Inkarnation DQ
+The Wizard 0 - Knowit | Raikoss 2
+Blackrenown 0 - TBM | Nocta 2
+P5 | ARK | | Key Khaar Ilyr 1 - Juartz 2
+Nalya 0 - S&B | Bibliburst 2
+R212 | aNA 0 - FCP | PoireGG 2
+FCP | PoireGG W - Bahaldrish DQ
+plan-B | Yetey 2 - Horde | Bengus 0
+GG | Tarik 2 - ABFT | Spike_lee 0
+THS | Xehamork 0 - Marius 2
+Horde | Bengus W - MNDM | Tooky DQ
+Itrezan 0 - Drimea 2
+bunnea 0 - Blackrenown 2
+Polinomis 2 - TBM | Nocta 0
+GG | Tarik 2 - Marius 0
+BSK | Shinshikun 2 - Juartz 0
+Juartz W - UBI | Pandaroux DQ
+Bouboune 2 - P5 | ARK | | Key Khaar Ilyr 0
+S&B | Bibliburst 2 - Knowit | Raikoss 1
+Nalya 0 - Drimea 2
+TBM | Nocta 2 - Justplay 0
+ABFT | Spike_lee 2 - Nadyys 1
+Polinomis 2 - IIE | BabyRage 0
+Horde | Bengus 2 - Juartz 0
+BSK | Shinshikun 1 - plan-B | Yetey 2
+THS | Xehamork 1 - Blackrenown 2
+FCP | PoireGG 0 - TBM | Nocta 2
+The Wizard 2 - Bouboune 0
+IIE | BabyRage 0 - Horde | Bengus 2
+BSK | Shinshikun 0 - TBM | Nocta 2
+Blackrenown 2 - ABFT | Spike_lee 1
+S&B | Bibliburst 0 - Polinomis 2
+The Wizard 2 - Drimea 0
+GG | Tarik 2 - plan-B | Yetey 0
+Marius 2 - The Wizard 0
+Knowit | Raikoss 2 - Blackrenown 1
+TBM | Nocta 2 - Marius 0
+Horde | Bengus 0 - Knowit | Raikoss 2
+S&B | Bibliburst 0 - TBM | Nocta 2
+plan-B | Yetey 0 - Knowit | Raikoss 2
+
+Pool A3
+Solary | Leon 2 - Onset 0
+Lunick 0 - THS | Mike 2
+SkyWarrior! 2 - Ismaël 0
+Lostik | SickBoy 2 - Zederof 0
+LeMonke 2 - GNS | MerciTekio 0
+F9 | Link91 W - Streuselwaffel DQ
+Tredi W - KORO DQ
+TGM | Acik W - Zex DQ
+Gluigi 2 - TROLL MENTALITY | Oasis 0
+WAR | Skaws 2 - EQUIPIER | Mustinho_10 0
+EQUIPIER | Mustinho_10 W - KORO DQ
+Joalot 2 - GozPacho 0
+Joalot W - TGM | Acik DQ
+DT | GreenEyes 1 - Trollardent 2
+WTFinland 2 - MCorp | SyLink 0
+ROBinet 2 - EGH-NES | Polar007 1
+S-Low 1 - Juni 2
+Goldenrak 2 - sFC | Jinn 1
+S-Low W - Streuselwaffel DQ
+Zederof 1 - Lunick 2
+Lostik | SickBoy 2 - THS | Mike 0
+WAR | Skaws 2 - Tredi 0
+Solary | Leon 2 - Goldenrak 0
+TROLL MENTALITY | Oasis 0 - DT | GreenEyes 2
+Onset 0 - sFC | Jinn 2
+sFC | Jinn W - TGM | Acik DQ
+SkyWarrior! 2 - ROBinet 0
+Gluigi 2 - Trollardent 0
+Zex 1 - GozPacho 2
+Ismaël 0 - EGH-NES | Polar007 2
+Tredi 2 - S-Low 0
+GNS | MerciTekio 1 - MCorp | SyLink 2
+F9 | Link91 2 - Juni 0
+ROBinet 0 - Lunick 2
+Solary | Leon 2 - Gluigi 0
+LeMonke 2 - WTFinland 0
+Goldenrak 2 - GozPacho 0
+SkyWarrior! 2 - WAR | Skaws 0
+Trollardent 2 - MCorp | SyLink 1
+THS | Mike 2 - EGH-NES | Polar007 1
+Tredi 2 - Lunick 0
+F9 | Link91 2 - Lostik | SickBoy 1
+Juni 2 - EQUIPIER | Mustinho_10 0
+LeMonke 2 - Joalot 0
+Gluigi 2 - Tredi 0
+Trollardent 1 - Goldenrak 2
+WTFinland 1 - DT | GreenEyes 2
+THS | Mike 2 - Juni 1
+Solary | Leon 2 - F9 | Link91 0
+SkyWarrior! 2 - LeMonke 1
+sFC | Jinn 2 - DT | GreenEyes 0
+WAR | Skaws 2 - Goldenrak 0
+Joalot 2 - THS | Mike 1
+Lostik | SickBoy 2 - sFC | Jinn 0
+Lostik | SickBoy 0 - Gluigi 2
+Joalot 1 - WAR | Skaws 2
+LeMonke 2 - Gluigi 0
+F9 | Link91 2 - WAR | Skaws 1
+
+Pool D7
+mCon | Space 2 - JDI | Nurax 0
+He/Him | Lioko W - Aatmaas DQ
+CGN | Tru4 2 - Raton | Lawcaust 0
+Lostik | DeepFreeze 2 - Vinssoussss 0
+MYS | Vilxs 2 - Kratog 0
+Shynio 2 - Nemui 0
+DaiMZ 2 - RoiDékon 0
+Antoroad W - S&B | WillyWonka DQ
+DZE | Bravo 0 - MCorp | Gouillou 2
+Anragon 2 - aevol 1
+LETZ | Lybel 2 - Sordax 0
+YnT | Scal 2 - JO2LY 0
+Nemui W - Aatmaas DQ
+Storm 0 - IIE | Carbo 2
+SnF | Scarhi 2 - NIS | Jona 0
+Vinssoussss W - S&B | WillyWonka DQ
+Kalarts 1 - Cauet Burger | Misieuroo 2
+Kratog 0 - RoiDékon 2
+He/Him | Lioko 2 - Shynio 0
+Crocosmaute 0 - Lulla 2
+mCon | Space 2 - MCorp | Gouillou 0
+Lostik | DeepFreeze 2 - Antoroad 0
+JO2LY 0 - Sordax 2
+YnT | Scal 0 - LETZ | Lybel 2
+JDI | Nurax 0 - DZE | Bravo 2
+MYS | Vilxs 2 - DaiMZ 1
+Raton | Lawcaust 0 - Kalarts 2
+Anragon 2 - IIE | Carbo 0
+CGN | Tru4 2 - Cauet Burger | Misieuroo 0
+Shynio 0 - Sordax 2
+aevol 1 - Storm 2
+DaiMZ 2 - Vinssoussss 0
+NIS | Jona 1 - Crocosmaute 2
+Antoroad 2 - RoiDékon 1
+YnT | Scal 0 - Nemui 2
+SnF | Scarhi 2 - Lulla 1
+IIE | Carbo 2 - Kalarts 0
+mCon | Space 2 - MYS | Vilxs 0
+MCorp | Gouillou 1 - Crocosmaute 2
+Cauet Burger | Misieuroo 2 - Storm 1
+He/Him | Lioko 1 - Anragon 2
+IIE | Carbo 0 - Sordax 2
+CGN | Tru4 2 - LETZ | Lybel 0
+DaiMZ 2 - Crocosmaute 0
+Lostik | DeepFreeze 2 - SnF | Scarhi 1
+Lulla 1 - DZE | Bravo 2
+Nemui 1 - Cauet Burger | Misieuroo 2
+DZE | Bravo 1 - Antoroad 2
+LETZ | Lybel 2 - DaiMZ 1
+SnF | Scarhi 1 - Sordax 2
+MYS | Vilxs 2 - Cauet Burger | Misieuroo 0
+He/Him | Lioko 2 - Antoroad 0
+CGN | Tru4 2 - Lostik | DeepFreeze 0
+Sordax 0 - LETZ | Lybel 2
+He/Him | Lioko 2 - MYS | Vilxs 1
+mCon | Space 2 - Anragon 1
+Lostik | DeepFreeze 0 - He/Him | Lioko 2
+Anragon 2 - LETZ | Lybel 1
+
+Pool D6
+Pikana W - LOSC | Mr. E DQ
+ELS | Phoenix W - MD | Maxilag DQ
+Le Caillou Couillu W - SOAT | SINJ | Humanbomb DQ
+JB | | mamouton W - Blan_ga DQ
+LOSC | Mr. E W - Blan_ga DQ
+._. 2 - Hiken 0
+toiny. 2 - TRG | Plasma_Le0 0
+Robo~Luigi 2 - Kinue 0
+NG | Greed 2 - DEH | Xainiz 0
+JB | | mamouton W - Pikana DQ
+Boo! 1 - 404 | Harper 2
+CLFD | Cadzer 2 - Mira 0
+Bronyx 2 - Sky 1
+ELS | Kuracow 2 - WAS | DracoFlo 1
+OwlBBs 2 - Ketöli 0
+Boo! W - MD | Maxilag DQ
+Aru 1 - Crow 2
+Kisen 2 - FS | Dydou 1
+404 | MIST 2 - Lapeluche 1
+Lapeluche W - SOAT | SINJ | Humanbomb DQ
+Lapeluche W - Pikana DQ
+ELS | Phoenix 2 - 404 | Harper 0
+Kinue 0 - Mira 2
+Hiken 0 - WAS | DracoFlo 2
+Ketöli 0 - Aru 2
+DEH | Xainiz 0 - FS | Dydou 2
+toiny. 2 - Bronyx 1
+OwlBBs 2 - Crow 0
+NG | Greed 2 - Kisen 0
+TRG | Plasma_Le0 1 - Sky 2
+._. 2 - ELS | Kuracow 1
+Le Caillou Couillu 2 - 404 | MIST 0
+404 | MIST W - LOSC | Mr. E DQ
+Robo~Luigi 2 - CLFD | Cadzer 0
+Crow 2 - Sky 0
+404 | Harper 2 - FS | Dydou 0
+JB | | mamouton 0 - ._. 2
+ELS | Kuracow 2 - Mira 0
+Kisen 0 - Boo! 2
+OwlBBs 2 - NG | Greed 0
+Bronyx 2 - Aru 0
+ELS | Phoenix 2 - toiny. 1
+ELS | Kuracow 2 - Lapeluche 0
+Bronyx 0 - 404 | Harper 2
+Boo! 0 - Crow 2
+._. 0 - ELS | Phoenix 2
+CLFD | Cadzer 1 - WAS | DracoFlo 2
+Robo~Luigi 1 - Le Caillou Couillu 2
+JB | | mamouton 0 - Crow 2
+NG | Greed 1 - ELS | Kuracow 2
+Robo~Luigi 2 - 404 | Harper 1
+404 | MIST 2 - WAS | DracoFlo 1
+Robo~Luigi 0 - ELS | Kuracow 2
+toiny. 1 - 404 | MIST 2
+OwlBBs 2 - Le Caillou Couillu 0
+._. 2 - ELS | Kuracow 0
+404 | MIST 2 - Crow 0
+Le Caillou Couillu 2 - 404 | MIST 0
+
+Pool B6
+Sintro W - Tek DQ
+TDB | BeJay ! W - TSD | Spin DQ
+SBZ | Gaya W - Epsoca | Rabbi DQ
+Elwin 2 - TheComet 0
+F4 | Snoopy 2 - LSF | Hayato 0
+Aeron 2 - Alastyn_ 0
+BAW / KRB | Cesco 2 - Karmaxx 0
+Serial 2 - Beyond 0
+Ogma 0 - TND | Regenix 2
+404 | STONE 2 - LDL | TR33K 0
+ELS | Focus Miss 2 - Arkivana 1
+BB | Keulaiment 1 - EL | MCorp | Shulink 2
+BB | Keulaiment W - Tek DQ
+Beyond W - TSD | Spin DQ
+Arkivana W - Epsoca | Rabbi DQ
+Stephenis 0 - Lesgnid 2
+Abdul 2 - DrWilty 0
+Ohm 2 - Ruon 1
+TDB | BeJay ! 2 - Serial 0
+NA2 1 - Piksou 2
+Sintro 2 - EL | MCorp | Shulink 0
+F4 | Snoopy 0 - Lesgnid 2
+Elwin 2 - TND | Regenix 0
+Aeron 2 - 404 | STONE 1
+SBZ | Gaya 2 - ELS | Focus Miss 1
+TheComet 2 - Ogma 0
+BAW / KRB | Cesco 2 - Ohm 1
+LSF | Hayato 1 - Stephenis 2
+Karmaxx 0 - Ruon 2
+DrWilty 0 - NA2 2
+Abdul 2 - Piksou 0
+Alastyn_ 2 - LDL | TR33K 1
+Sintro 2 - Lesgnid 0
+404 | STONE 2 - Arkivana 0
+TND | Regenix 2 - Beyond 0
+TDB | BeJay ! 2 - Aeron 1
+EL | MCorp | Shulink 2 - NA2 0
+ELS | Focus Miss 2 - Alastyn_ 0
+Serial 2 - TheComet 0
+SBZ | Gaya 1 - Elwin 2
+BAW / KRB | Cesco 2 - Abdul 0
+F4 | Snoopy 0 - Ruon 2
+Ohm 1 - Stephenis 2
+Sintro 2 - Elwin 0
+Piksou 2 - BB | Keulaiment 1
+TND | Regenix 2 - ELS | Focus Miss 1
+Ruon 0 - EL | MCorp | Shulink 2
+TDB | BeJay ! 2 - BAW / KRB | Cesco 0
+404 | STONE 2 - Serial 1
+Piksou 0 - Stephenis 2
+Abdul 0 - TND | Regenix 2
+Aeron 2 - EL | MCorp | Shulink 0
+SBZ | Gaya 2 - Stephenis 0
+TND | Regenix 2 - Aeron 0
+Lesgnid 0 - 404 | STONE 2
+Elwin 2 - TND | Regenix 0
+SBZ | Gaya 2 - 404 | STONE 1
+BAW / KRB | Cesco 2 - SBZ | Gaya 0
+
+Pool B1
+BS | | Tavelier W - Bekos | Bekos DQ
+YTK | Guenn W - Nimbledorf DQ
+Oplon | Oryon 2 - dazed 0
+Phonky 2 - Le M 0
+Nearyx 2 - Eisop 0
+SPEC | Luxo 2 - DLT | KeyFace 0
+HuB Free | Bento 2 - MCorp | Altrex 0
+dazed W - Bekos | Bekos DQ
+Le M W - Nimbledorf DQ
+Mazen W - Dorito DQ
+TA | Lumeon 2 - S&B | Alvis 0
+wS ßß | Spectral W - EyZex DQ
+DsP | CEW | Pillow 2 - Fortran97 0
+HSG | Teck 2 - 0-6 | Kuro 0
+Granit | iRefuse 2 - Kise Seryuu 0
+ABR 2 - BLP | Xala 0
+Fortran97 W - Dorito DQ
+Crispy 2 - NG LHES | Js 0
+Oplon | Oryon 2 - BS | | Tavelier 0
+Phonky 2 - YTK | Guenn 0
+Nearyx 0 - HuB Free | Bento 2
+Eisop 2 - MCorp | Altrex 0
+Nezoxy 2 - SAC | Mickjeagle 0
+BLP | Xala 0 - NG LHES | Js 2
+Granit | iRefuse 1 - SPEC | Luxo 2
+DsP | CEW | Pillow 2 - Mazen 0
+SAC | Mickjeagle W - EyZex DQ
+Kise Seryuu 2 - DLT | KeyFace 1
+ABR 2 - Crispy 0
+Oplon | Oryon 2 - HuB Free | Bento 0
+HSG | Teck 2 - TA | Lumeon 0
+0-6 | Kuro 1 - S&B | Alvis 2
+YTK | Guenn 0 - Fortran97 2
+Granit | iRefuse 2 - NG LHES | Js 0
+wS ßß | Spectral 2 - Nezoxy 1
+Nearyx 0 - SAC | Mickjeagle 2
+ABR 2 - DsP | CEW | Pillow 0
+Phonky 2 - SPEC | Luxo 1
+Crispy 2 - Kise Seryuu 0
+TA | Lumeon 2 - dazed 0
+BS | | Tavelier 0 - S&B | Alvis 2
+Mazen 2 - Le M 1
+Granit | iRefuse 2 - Fortran97 0
+wS ßß | Spectral 2 - HSG | Teck 0
+Nezoxy 2 - Eisop 0
+Oplon | Oryon 2 - Phonky 0
+HSG | Teck 0 - Granit | iRefuse 2
+Mazen 0 - Crispy 2
+TA | Lumeon 0 - Nezoxy 2
+SAC | Mickjeagle 0 - S&B | Alvis 2
+HuB Free | Bento 1 - Crispy 2
+SPEC | Luxo 2 - Nezoxy 1
+DsP | CEW | Pillow 0 - S&B | Alvis 2
+SPEC | Luxo 0 - Crispy 2
+Granit | iRefuse 2 - S&B | Alvis 0
+ABR 0 - wS ßß | Spectral 2
+Phonky 2 - Granit | iRefuse 0
+ABR 2 - Crispy 1
+
+Pool D5
+IZI | Enki W - Big Boy DQ
+moufi 2 - Moofou 0
+Cryme | Peli 2 - FLEX 0
+Power | Vergil 2 - DLSkill | GAMEN 0
+flipflop02 2 - Dæ 0
+DLSkill | GAMEN W - Big Boy DQ
+SnF | Nin' 2 - SC | TAEL 0
+BenJ 2 - Satan_Bouche_Un_Coin 0
+FriskyCissin 2 - BOByousra 0
+Kajou 2 - BigSinge 0
+MiniMo 2 - Guindoo 0
+NeoSkyBlue 2 - Sha 0
+Godot 0 - PetitLama 2
+Nessteruk 2 - HGD vihyuu 0
+Moon W - SEUM | Cardane DQ
+Fresco 2 - matzkodazko 0
+matzkodazko W - SEUM | Cardane DQ
+Checkpoint | KaosBombix 2 - Deadream 0
+Moofou 0 - BigSinge 2
+FLEX 0 - Godot 2
+SnF | Nin' 2 - Nessteruk 0
+Cryme | Peli 2 - PetitLama 0
+moufi 2 - Kajou 0
+BenJ 0 - NeoSkyBlue 2
+IZI | Enki 2 - Power | Vergil 1
+Satan_Bouche_Un_Coin 2 - Sha 0
+Guindoo 1 - Dæ 2
+SC | TAEL 1 - HGD vihyuu 2
+MiniMo 2 - flipflop02 0
+Fresco 2 - Moon 1
+BOByousra 1 - Deadream 2
+Cryme | Peli 2 - NeoSkyBlue 0
+Kajou 2 - DLSkill | GAMEN 0
+FriskyCissin 2 - Checkpoint | KaosBombix 1
+Power | Vergil 2 - BigSinge 1
+Nessteruk 2 - Satan_Bouche_Un_Coin 1
+PetitLama 0 - matzkodazko 2
+IZI | Enki 2 - MiniMo 0
+BenJ 2 - HGD vihyuu 1
+SnF | Nin' 2 - Fresco 1
+FriskyCissin 2 - moufi 1
+Checkpoint | KaosBombix 2 - Dæ 0
+flipflop02 2 - Deadream 1
+Moon 2 - Godot 1
+BenJ 2 - matzkodazko 0
+flipflop02 1 - Power | Vergil 2
+Moon 1 - Nessteruk 2
+MiniMo 2 - BenJ 0
+Kajou 2 - Checkpoint | KaosBombix 1
+NeoSkyBlue 0 - Power | Vergil 2
+Fresco 2 - Kajou 0
+moufi 2 - Nessteruk 1
+moufi 2 - Power | Vergil 0
+IZI | Enki 2 - SnF | Nin' 1
+Fresco 1 - MiniMo 2
+Cryme | Peli 2 - FriskyCissin 1
+FriskyCissin 2 - MiniMo 1
+SnF | Nin' 2 - moufi 1
+
+Pool B4
+Ganymède 2 - R-B | Victouffe 0
+Chag 2 - LGB | Raijin 0
+TL | Kakpu 2 - Seistral 0
+WTX | Kingël 2 - Juan Pipito 0
+Marcbri W - komodo3000 DQ
+xelan47156 W - Reiko DQ
+LETZ | Theyla 0 - FALL GUYS | Ptr Logan 2
+Marik 2 - Shaymezu 0
+Seistral W - Reiko DQ
+Fyrzen 0 - Kirdos 2
+Indi 2 - Theodred 0
+Feiik 2 - INKlink 1
+Littlemonke 2 - Valous 1
+Eagles | Fire 2 - CrysTal 0
+INKlink W - komodo3000 DQ
+E0 | Tixo 2 - Dodo 0
+3BOSH 1 - KDD 2
+WooxTom 2 - Zenixh 0
+WTX | Kingël 2 - FALL GUYS | Ptr Logan 0
+Juan Pipito 0 - LETZ | Theyla 2
+LGB | Raijin 0 - Fyrzen 2
+Valous 0 - Shaymezu 2
+Indi 0 - Eagles | Fire 2
+Littlemonke 2 - Marik 1
+TL | Kakpu 2 - xelan47156 0
+Theodred 0 - CrysTal 2
+Zenixh 0 - 3BOSH 2
+WooxTom 2 - KDD 0
+Chag 2 - Kirdos 0
+FALL GUYS | Ptr Logan 2 - Shaymezu 0
+Indi 2 - Fyrzen 0
+R-B | Victouffe 2 - Dodo 1
+Ganymède 1 - E0 | Tixo 2
+Marik 2 - LETZ | Theyla 0
+TL | Kakpu 2 - Eagles | Fire 0
+Marcbri 2 - Feiik 0
+KDD 2 - INKlink 0
+Kirdos 0 - CrysTal 2
+Ganymède 2 - Seistral 0
+xelan47156 2 - R-B | Victouffe 1
+KDD 0 - FALL GUYS | Ptr Logan 2
+Feiik 0 - 3BOSH 2
+Chag 2 - E0 | Tixo 0
+WTX | Kingël 2 - WooxTom 0
+Marik 2 - 3BOSH 0
+Eagles | Fire 2 - FALL GUYS | Ptr Logan 0
+Ganymède 2 - CrysTal 0
+Indi 2 - xelan47156 1
+Marcbri 1 - Littlemonke 2
+WooxTom 2 - Indi 1
+E0 | Tixo 1 - Marik 2
+Chag 2 - WTX | Kingël 0
+Marcbri 2 - Ganymède 0
+Littlemonke 0 - TL | Kakpu 2
+WooxTom 2 - Marik 1
+Eagles | Fire 1 - Marcbri 2
+WTX | Kingël 0 - Marcbri 2
+Littlemonke 1 - WooxTom 2
+
+Pool D3
+FAKE | Pyrrhon W - Smacht | Epsilon DQ
+Djol W - PhysicsMan DQ
+Fake | IZnOo W - Glitch DQ
+Tomberry 2 - Shaka 0
+sisqui 2 - Kenomorph 0
+Drolo 2 - Bravir 0
+HuB | N. FanDogs 2 - Snellac 0
+Kaio | Ismaël 2 - Lamatrak 0
+Lamatrak W - Glitch DQ
+D2S | Onean 2 - Niobi 1
+LHES | ßß | Finnn 2 - NightBlast 0
+Oracle | Katascient 2 - gbsfranca 0
+TheJioFreed 2 - Ulmar 0
+Eikoh 1 - YABUKI 2
+Kibzu~ 2 - DisasterMarkus 0
+Kazzers 2 - EDG | Misterravage 1
+EDG | Misterravage W - PhysicsMan DQ
+Eikoh W - Smacht | Epsilon DQ
+eltωingo 0 - ETY | Pacha 2
+HuB | N. FanDogs 2 - D2S | Onean 0
+Kaio | Ismaël 2 - Fake | IZnOo 0
+Oracle | Katascient 2 - Drolo 0
+Shaka 0 - Ulmar 2
+Tomberry 2 - TheJioFreed 1
+gbsfranca 0 - Bravir 2
+NightBlast 0 - DisasterMarkus 2
+FAKE | Pyrrhon 2 - YABUKI 1
+Kenomorph 0 - eltωingo 2
+LHES | ßß | Finnn 0 - Kibzu~ 2
+Snellac 2 - Niobi 1
+Kazzers 2 - Djol 1
+Fake | IZnOo 2 - EDG | Misterravage 1
+Oracle | Katascient 2 - HuB | N. FanDogs 0
+D2S | Onean 2 - Ulmar 0
+LHES | ßß | Finnn 2 - eltωingo 0
+YABUKI 2 - Bravir 1
+Drolo 2 - Eikoh 1
+Kaio | Ismaël 2 - Kibzu~ 0
+TheJioFreed 2 - Snellac 0
+Djol 2 - Lamatrak 0
+sisqui 2 - ETY | Pacha 0
+LHES | ßß | Finnn 2 - Fake | IZnOo 0
+YABUKI 0 - TheJioFreed 2
+D2S | Onean 1 - Drolo 2
+HuB | N. FanDogs 2 - LHES | ßß | Finnn 0
+Tomberry 2 - FAKE | Pyrrhon 1
+sisqui 2 - Kazzers 0
+ETY | Pacha 1 - DisasterMarkus 2
+Kibzu~ 2 - Drolo 1
+Kazzers 1 - TheJioFreed 2
+Djol 1 - DisasterMarkus 2
+Tomberry 1 - Kaio | Ismaël 2
+HuB | N. FanDogs 2 - TheJioFreed 0
+FAKE | Pyrrhon 2 - DisasterMarkus 0
+Tomberry 2 - HuB | N. FanDogs 1
+sisqui 2 - Oracle | Katascient 1
+Kibzu~ 0 - FAKE | Pyrrhon 2
+Oracle | Katascient 2 - FAKE | Pyrrhon 0
+
+Pool B3
+VIE | Évvaaa W - HDtrainer DQ
+ASU | Mocra 2 - EQUIPIER | D4MI 0
+Solary | Glutonny 2 - BxH | | Emi 0
+ORO | Zekip 2 - Stonguy 0
+LBDG | Cayen W - TiTrist DQ
+Gamal | Almog 2 - GR | AshTwoPointFive 0
+ForTseKe 2 - GrosLard 0
+GrosLard W - TiTrist DQ
+Splarfie 2 - EL | Siwwo 0
+ロリ | yogui 2 - Blinis 1
+Windor | . W - TF | Divine DQ
+DsP | Naenian 0 - El 7lm 2
+DsP | Naenian W - HDtrainer DQ
+TGN | Actylo 2 - Shlexd 0
+IIE | Titi W - Zura DQ
+Solary | Glutonny 2 - Gamal | Almog 0
+BxH | | Emi 0 - GR | AshTwoPointFive 2
+Koorie 2 - Lumen 1
+EQUIPIER | D4MI 2 - EL | Siwwo 0
+ForTseKe 2 - LBDG | Cayen 0
+Phoenix Bloom | Sparken 1 - Bassle 2
+Phoenix Bloom | Sparken W - TF | Divine DQ
+ASU | Mocra 2 - Splarfie 0
+FXN | Senso 2 - BEB | Takudrifto 0
+BEB | Takudrifto W - Zura DQ
+VIE | Évvaaa 0 - El 7lm 2
+ロリ | yogui 0 - TGN | Actylo 2
+Blinis 1 - Shlexd 2
+Stonguy 0 - Lumen 2
+Windor | . 0 - Bassle 2
+VIE | Évvaaa 0 - GrosLard 2
+El 7lm 0 - ASU | Mocra 2
+ORO | Zekip 2 - Koorie 1
+IIE | Titi 0 - FXN | Senso 2
+Solary | Glutonny 2 - TGN | Actylo 0
+LBDG | Cayen 1 - DsP | Naenian 2
+Gamal | Almog 2 - BEB | Takudrifto 0
+ロリ | yogui 2 - Phoenix Bloom | Sparken 0
+Windor | . 0 - Shlexd 2
+Bassle 2 - FXN | Senso 0
+Koorie 2 - EQUIPIER | D4MI 0
+ORO | Zekip 0 - ForTseKe 2
+IIE | Titi 2 - GR | AshTwoPointFive 0
+ロリ | yogui 2 - Gamal | Almog 0
+DsP | Naenian 0 - Koorie 2
+Splarfie 2 - Lumen 1
+El 7lm 0 - ロリ | yogui 2
+IIE | Titi 2 - Shlexd 0
+ORO | Zekip 2 - IIE | Titi 0
+Solary | Glutonny 2 - ForTseKe 0
+Splarfie 2 - GrosLard 1
+ASU | Mocra 2 - Bassle 1
+FXN | Senso 1 - Koorie 2
+Koorie 0 - ロリ | yogui 2
+TGN | Actylo 1 - Splarfie 2
+ORO | Zekip 1 - Splarfie 2
+ForTseKe 2 - ロリ | yogui 0
+Bassle 2 - Splarfie 1
+
+Pool D2
+Winder W - perlinpinpin DQ
+808 | Suplink W - MDP | ThundeR DQ
+MDP | ThundeR W - perlinpinpin DQ
+Sked | Jaka 2 - Sz | DTC | MoahRikunel 0
+B~Little 2 - Lidrial 0
+NG SR | Wydado 2 - CLN | kili 0
+HSG | Otakuni 2 - SLY | LRB 0
+BG | ML41 W - GLITCH | Nakū DQ
+Tredi FC | Keliann 1 - Irt0zero 2
+F9 | Momon 2 - Shiyu 0
+B&B | DrBoomer 2 - Aabi 0
+Shiyu W - GLITCH | Nakū DQ
+Gardex 2 - Nilhil 0
+SchwarzSkills W - BDE | Inter DQ
+Picotera 2 - thbz 0
+Winder 2 - 808 | Suplink 0
+Jazzy Jeff 2 - Flishtiflu 0
+B&B | DrBoomer W - SchwarzSkills DQ
+Lidrial 2 - CLN | kili 0
+Shiyu W - SchwarzSkills DQ
+Aabi W - BDE | Inter DQ
+B~Little 1 - NG SR | Wydado 2
+F9 | Momon 2 - BG | ML41 0
+AES | Nikkoro W - A2JV | Semayl DQ
+Sked | Jaka 2 - Irt0zero 0
+Sz | DTC | MoahRikunel 0 - Tredi FC | Keliann 2
+Dr.Crow 2 - Hugnable 1
+Dr.Crow W - AES | Nikkoro DQ
+Hugnable W - A2JV | Semayl DQ
+MDP | ThundeR W - AES | Nikkoro DQ
+SLY | LRB 0 - Nilhil 2
+HSG | Otakuni 2 - Gardex 0
+Winder 2 - B&B | DrBoomer 1
+Picotera 2 - Jazzy Jeff 0
+BG | ML41 2 - Aabi 0
+BG | ML41 W - MDP | ThundeR DQ
+808 | Suplink 0 - Hugnable 2
+F9 | Momon 2 - Dr.Crow 0
+thbz 1 - Flishtiflu 2
+Gardex 2 - Lidrial 0
+B~Little 2 - Nilhil 0
+Jazzy Jeff 2 - Tredi FC | Keliann 0
+Shiyu 0 - Hugnable 2
+HSG | Otakuni 0 - Picotera 2
+Sked | Jaka 2 - NG SR | Wydado 0
+Irt0zero 2 - Flishtiflu 0
+Jazzy Jeff 2 - Gardex 1
+NG SR | Wydado 2 - BG | ML41 0
+HSG | Otakuni 2 - Hugnable 0
+B~Little 2 - Irt0zero 0
+B&B | DrBoomer 1 - Jazzy Jeff 2
+Dr.Crow 0 - B~Little 2
+Sked | Jaka 2 - Winder 0
+HSG | Otakuni 2 - B~Little 0
+F9 | Momon 2 - Picotera 1
+Jazzy Jeff 2 - NG SR | Wydado 1
+Winder 0 - HSG | Otakuni 2
+Picotera 2 - Jazzy Jeff 1
+
+Pool C6
+Pixel W - BDE | Wooneg DQ
+ROV | Vidad 2 - rainbowshyy 0
+Dizay 2 - Nutron 0
+Hazhell 2 - JDI | Aabzyx 0
+Kaiyo 2 - BSK | Sheyie 0
+BMS | Ogey 2 - CP | Zabo 0
+BSK | Sheyie W - BDE | Wooneg DQ
+Heekoz 0 - BREXIT 2
+bopi 2 - Memory 0
+WTX | Sirknight 2 - Greengooo 0
+FCBW | GN4RK 2 - clfd | ArkTique 0
+OVNI | Fun 2 - CBVも | Pyoro 0
+Lycan 2 - ploiw 0
+ASPTT | | Raphro 2 - MYS | Poncho 0
+BMS | Ogey 2 - BREXIT 0
+MZP | Ton 2 - Hya 0
+ROV | Vidad 2 - OVNI | Fun 0
+TaLinEsh 2 - Zohrk 0
+CP | Zabo 0 - Heekoz 2
+bopi 0 - Hazhell 2
+Kaiyo 2 - Pixel 0
+SEUM | Natsirt 2 - LBDG | Arctozolt 0
+Memory 2 - JDI | Aabzyx 0
+ASPTT | | Raphro 2 - FCBW | GN4RK 0
+Dizay 2 - Lycan 1
+MYS | Poncho 2 - clfd | ArkTique 0
+rainbowshyy 0 - CBVも | Pyoro 2
+WTX | Sirknight 2 - TaLinEsh 0
+BMS | Ogey 2 - Kaiyo 0
+Nutron 1 - ploiw 2
+Hya 0 - LBDG | Arctozolt 2
+OVNI | Fun 0 - Memory 2
+Greengooo 1 - Zohrk 2
+ROV | Vidad 2 - Dizay 0
+ASPTT | | Raphro 0 - Hazhell 2
+TaLinEsh 2 - BSK | Sheyie 0
+MZP | Ton 2 - SEUM | Natsirt 1
+bopi 0 - CBVも | Pyoro 2
+Lycan 1 - MYS | Poncho 2
+BREXIT 2 - LBDG | Arctozolt 0
+FCBW | GN4RK 0 - ploiw 2
+WTX | Sirknight 2 - MZP | Ton 0
+SEUM | Natsirt 0 - Heekoz 2
+MYS | Poncho 2 - Memory 0
+Pixel 1 - Zohrk 2
+CBVも | Pyoro 2 - ploiw 0
+Zohrk 0 - BREXIT 2
+BMS | Ogey 2 - Hazhell 0
+Heekoz 2 - TaLinEsh 1
+Dizay 2 - BREXIT 0
+MZP | Ton 2 - CBVも | Pyoro 0
+Kaiyo 2 - MYS | Poncho 1
+ASPTT | | Raphro 2 - Heekoz 1
+ROV | Vidad 2 - WTX | Sirknight 1
+MZP | Ton 2 - Dizay 0
+Hazhell 0 - MZP | Ton 2
+WTX | Sirknight 2 - ASPTT | | Raphro 0
+ASPTT | | Raphro 2 - Kaiyo 0
+
+Pool C4
+Shaneak 2 - NMD | Drazeros 0
+BMS | Raflow 2 - SideB 0
+ST | Oreji W - Casy DQ
+Le Duc W - TRF | Clover DQ
+QG | Norakuro 2 - Pikalex 0
+Hudet 2 - RSA | Shadesun 0
+Oxxyga W - WTX | Cryme | Shikai DQ
+SSP | Sansi 2 - Etona 0
+BDG | Salade au Thon 2 - VIE | Ne0sam 0
+Night_Ayame 2 - Contentgaga 0
+AMZ | Kace 2 - Aetra 0
+Etona W - Casy DQ
+Gogesta 2 - DK Screw | Baby 0
+DK Screw | Baby W - TRF | Clover DQ
+IA | LK_Ekho 0 - Kaoru 2
+IA | LK_Ekho W - WTX | Cryme | Shikai DQ
+Pikalex 2 - RSA | Shadesun 0
+Hylia 2 - NullSpace 0
+Louie 2 - Wayn 1
+mathieu 2 - Hotdawg 1
+SSP | Sansi 2 - ST | Oreji 0
+Gogesta 2 - Le Duc 0
+NMD | Drazeros 2 - VIE | Ne0sam 0
+SideB 0 - Wayn 2
+Oxxyga 2 - Kaoru 0
+Hylia 2 - Night_Ayame 0
+Shaneak 2 - BDG | Salade au Thon 1
+NullSpace 2 - Contentgaga 0
+BMS | Raflow 2 - Louie 0
+QG | Norakuro 0 - Hudet 2
+ST | Oreji 2 - DK Screw | Baby 0
+AMZ | Kace 2 - mathieu 0
+Gogesta 2 - Hylia 0
+Aetra 0 - Hotdawg 2
+Le Duc 2 - Etona 1
+Night_Ayame 2 - NMD | Drazeros 0
+BMS | Raflow 2 - Hudet 0
+BDG | Salade au Thon 2 - NullSpace 1
+mathieu 2 - Pikalex 0
+Shaneak 0 - SSP | Sansi 2
+Kaoru 1 - Wayn 2
+AMZ | Kace 0 - Oxxyga 2
+Louie 2 - IA | LK_Ekho 0
+Night_Ayame 1 - Le Duc 2
+QG | Norakuro 1 - Hotdawg 2
+Wayn 1 - mathieu 2
+BMS | Raflow 2 - SSP | Sansi 0
+Gogesta 2 - Oxxyga 0
+Hudet 2 - Le Duc 0
+Hotdawg 0 - Louie 2
+ST | Oreji 2 - BDG | Salade au Thon 1
+Shaneak 2 - mathieu 0
+AMZ | Kace 2 - ST | Oreji 0
+Hylia 1 - Louie 2
+Shaneak 2 - Hudet 0
+Oxxyga 0 - Shaneak 2
+AMZ | Kace 1 - Louie 2
+SSP | Sansi 2 - Louie 0
+
+Pool C3
+DsP | RemySansFamille W - Xivis DQ
+RamonWars 2 - RIB | Hazmat 0
+Pulsar | Mika 2 - Nox 0
+Phyel 2 - AMS | Bencio 0
+FlameHaze 2 - Goison 1
+AMS | Bencio W - Xivis DQ
+ETH | elko 0 - EQUIPIER | 19 2
+Mcorp | Whale! (Neibafu) 2 - ProMeteor 0
+Icrysta 2 - O.K. 1
+Valve 2 - BlizzyWolf 0
+Myollnir 2 - Chnaw 0
+BABO | Crash 2 - DarpGosaNiled 0
+Moist | Maister 2 - Mcorp | Noirencolère 0
+ComteNiark 2 - ST | Hokami 0
+FTW | Blykes 1 - ST | FOUR 2
+Phyel 2 - DsP | RemySansFamille 0
+N-VY 1 - Alix 2
+Anbil 2 - Bûch | Wysdoom 0
+Chnaw 0 - O.K. 2
+RIB | Hazmat 0 - ProMeteor 2
+Goison 2 - BlizzyWolf 0
+Myollnir 2 - Icrysta 0
+N-VY W - DarpGosaNiled DQ
+RamonWars 1 - Mcorp | Whale! (Neibafu) 2
+FlameHaze 1 - Valve 2
+Pulsar | Mika 2 - ST | FOUR 0
+Nox 0 - FTW | Blykes 2
+Mcorp | Noirencolère 0 - ETH | elko 2
+DsP | RemySansFamille 0 - O.K. 2
+BABO | Crash 2 - Alix 0
+Anbil 2 - ComteNiark 0
+Moist | Maister 2 - EQUIPIER | 19 0
+Bûch | Wysdoom 2 - ST | Hokami 0
+FlameHaze 2 - N-VY 0
+Pulsar | Mika 2 - Phyel 0
+Icrysta 2 - AMS | Bencio 1
+RamonWars 2 - FTW | Blykes 0
+Alix 0 - Goison 2
+Myollnir 2 - Mcorp | Whale! (Neibafu) 0
+Moist | Maister 2 - Valve 0
+ComteNiark 2 - ETH | elko 0
+ST | FOUR 1 - ProMeteor 2
+BABO | Crash 0 - Anbil 2
+RamonWars 0 - Icrysta 2
+EQUIPIER | 19 2 - Bûch | Wysdoom 0
+ComteNiark 2 - Goison 0
+O.K. 0 - ProMeteor 2
+FlameHaze 2 - EQUIPIER | 19 0
+Valve 0 - Icrysta 2
+BABO | Crash 2 - ProMeteor 0
+Phyel 2 - ComteNiark 1
+Mcorp | Whale! (Neibafu) 2 - FlameHaze 0
+Moist | Maister 2 - Pulsar | Mika 0
+Phyel 2 - Icrysta 0
+Myollnir 0 - Anbil 2
+BABO | Crash 1 - Mcorp | Whale! (Neibafu) 2
+Pulsar | Mika 0 - Mcorp | Whale! (Neibafu) 2
+Myollnir 0 - Phyel 2
+
+Pool B2
+AMI | azurw W - CheeZZbra DQ
+Manda 2 - TAYA 0
+TAYA W - CheeZZbra DQ
+LHES | Tiko 2 - Kulbuto 0
+SBF 2 - Xanadu 0
+Shidori 2 - GG | Gwendal 0
+Romy 2 - CHY | Tismé Sucré (RaikeN) 0
+ELS | Nokcha 2 - EQUIPIER | Awlast 0
+Echo  | STdix 2 - DAT | Burning 0
+Kodiak 2 - Aelle 0
+BKROG | | Mr.R 2 - EL | Kintox 0
+Volya W - Deanar DQ
+Chapka 2 - Uruka 1
+Uruka W - Deanar DQ
+Toadow 1 - AL | Yami 2
+Honnorz 1 - Original 2
+Manda 2 - AMI | azurw 0
+Kulbuto 2 - EQUIPIER | Awlast 0
+WM | Kogiko 1 - Telitelo 2
+Arima 2 - DEH | Ilario 0
+LHES | Tiko 2 - ELS | Nokcha 0
+Xanadu 0 - Honnorz 2
+GG | Gwendal 0 - Toadow 2
+Kodiak 2 - Romy 1
+Aelle 1 - CHY | Tismé Sucré (RaikeN) 2
+DEH | Ilario 0 - DAT | Burning 2
+SBF 2 - Original 0
+Volya 2 - Chapka 0
+EL | Kintox 0 - WM | Kogiko 2
+Arima 2 - Echo  | STdix 1
+Shidori 2 - AL | Yami 1
+ELS | Nokcha 2 - Toadow 0
+Romy 2 - TAYA 0
+BKROG | | Mr.R 2 - Telitelo 0
+AMI | azurw 2 - CHY | Tismé Sucré (RaikeN) 0
+Chapka 2 - WM | Kogiko 0
+Echo  | STdix 2 - Honnorz 0
+Original 1 - DAT | Burning 2
+SBF 2 - LHES | Tiko 1
+Telitelo 0 - Uruka 2
+AL | Yami 2 - Kulbuto 1
+BKROG | | Mr.R 2 - Kodiak 0
+Shidori 2 - Arima 1
+Manda 1 - Volya 2
+Chapka 2 - AMI | azurw 0
+Romy 2 - Uruka 0
+ELS | Nokcha 0 - DAT | Burning 2
+Echo  | STdix 2 - AL | Yami 1
+Manda 2 - Echo  | STdix 0
+LHES | Tiko 2 - Romy 0
+Arima 2 - Chapka 0
+Kodiak 2 - DAT | Burning 1
+BKROG | | Mr.R 2 - Shidori 0
+Manda 2 - LHES | Tiko 0
+Arima 2 - Kodiak 0
+Shidori 0 - Manda 2
+SBF 2 - Volya 0
+Volya 0 - Arima 2
+
+Pool A2
+Klaun W - Dizuite DQ
+LeoN 2 - FCBW | WonderBoite 0
+Pyrum 2 - Abaca 0
+Young Eevey 2 - Bya 0
+Creed 2 - Ange 0
+Axtyz 0 - MC | | Konnors 2
+NVS | Destadik 2 - Gefires 0
+MUG | G-P 2 - viensvoirdespi 0
+AG | Fr0zen 2 - Brouniii 0
+DarkShad 2 - Lazuli 0
+Speedy 2 - Jem 0
+ONI FITOU | Drathian 0 - Jed 2
+Poda 2 - Tomipal 0
+Vics 2 - Fraise Parapluie 1
+02C/RIB | frinesa 0 - SouljaBoiTELLEM 2
+RDL | Whoophee 2 - BÛCH | Raptor 0
+BÛCH | Raptor W - Dizuite DQ
+Lazuli 0 - Ange 2
+Abaca 2 - Axtyz 1
+Pyrum 2 - MC | | Konnors 0
+DarkShad 0 - Creed 2
+Young Eevey 2 - Poda 0
+Gefires 0 - Jem 2
+FCBW | WonderBoite 0 - ONI FITOU | Drathian 2
+AG | Fr0zen 2 - Vics 0
+viensvoirdespi 0 - 02C/RIB | frinesa 2
+NVS | Destadik 2 - Speedy 1
+LeoN 2 - Jed 0
+RDL | Whoophee 2 - Klaun 0
+Brouniii 0 - Fraise Parapluie 2
+Bya 0 - Tomipal 2
+MUG | G-P 1 - SouljaBoiTELLEM 2
+DarkShad 0 - 02C/RIB | frinesa 2
+Poda 2 - Fraise Parapluie 0
+Young Eevey 2 - Pyrum 0
+Speedy 2 - BÛCH | Raptor 0
+Jed 2 - Abaca 0
+MC | | Konnors 2 - ONI FITOU | Drathian 1
+Klaun 2 - Jem 1
+RDL | Whoophee 2 - Creed 0
+MUG | G-P 2 - Ange 0
+LeoN 2 - AG | Fr0zen 0
+SouljaBoiTELLEM 0 - NVS | Destadik 2
+Vics 0 - Tomipal 2
+02C/RIB | frinesa 2 - Klaun 0
+MC | | Konnors 2 - Poda 0
+AG | Fr0zen 2 - 02C/RIB | frinesa 0
+Tomipal 0 - Jed 2
+Speedy 1 - MUG | G-P 2
+SouljaBoiTELLEM 0 - MC | | Konnors 2
+Creed 2 - Jed 0
+Pyrum 1 - MUG | G-P 2
+LeoN 2 - NVS | Destadik 0
+MC | | Konnors 1 - AG | Fr0zen 2
+RDL | Whoophee 2 - Young Eevey 0
+MUG | G-P 2 - Creed 0
+NVS | Destadik 2 - MUG | G-P 1
+Young Eevey 1 - AG | Fr0zen 2
+
+Pool D1
+Shuga W - SL | Alfaembr DQ
+Poussière W - Benca DQ
+Sayger W - Flaos DQ
+LilKay W - ToxicGoofy DQ
+Waffle W - MaxCryger DQ
+Dépendance W - Harzarck DQ
+LSE | PeW 2 - Cyanur 0
+SFG | Byron 2 - |)i / | Strega 0
+Cyanur W - Flaos DQ
+iStudying 2 - BLP | Diisco 0
+BKROG | WTFox 2 - MakeSense 0
+NdGG | ßß | Draver 2 - CHY | Chob73 0
+Wolves | Lunner 2 - Guilder 1
+myR | Kami 2 - Linktorien 0
+BLP | Diisco W - SL | Alfaembr DQ
+iLift 2 - RIPFTC | WayCoeur 0
+Bormis 2 - SIIS 0
+hugzbo 2 - LSF | | Tora 0
+RIPFTC | WayCoeur W - ToxicGoofy DQ
+CHY | Chob73 W - MaxCryger DQ
+Linktorien W - Harzarck DQ
+LSF | | Tora W - Benca DQ
+LSE | PeW 2 - Sayger 0
+iStudying 2 - Shuga 0
+NdGG | ßß | Draver 2 - Waffle 0
+|)i / | Strega 0 - Guilder 2
+MakeSense 0 - SIIS 2
+BKROG | WTFox 2 - Bormis 0
+LilKay 0 - iLift 2
+SFG | Byron 0 - Wolves | Lunner 2
+Poussière 2 - hugzbo 0
+myR | Kami 2 - Dépendance 1
+Sayger 2 - LSF | | Tora 0
+Shuga 2 - Linktorien 1
+iStudying 2 - Wolves | Lunner 0
+SFG | Byron 2 - CHY | Chob73 0
+BKROG | WTFox 2 - Poussière 0
+LSE | PeW 2 - iLift 0
+Waffle 2 - Guilder 1
+LilKay 0 - SIIS 2
+Dépendance 2 - BLP | Diisco 0
+NdGG | ßß | Draver 2 - myR | Kami 0
+Bormis 2 - RIPFTC | WayCoeur 1
+hugzbo 2 - Cyanur 0
+SFG | Byron 2 - Shuga 0
+SIIS 0 - Sayger 2
+Dépendance 2 - Waffle 1
+hugzbo 2 - Bormis 0
+iLift 0 - SFG | Byron 2
+myR | Kami 2 - hugzbo 0
+Wolves | Lunner 2 - Sayger 1
+Poussière 2 - Dépendance 1
+LSE | PeW 0 - NdGG | ßß | Draver 2
+Poussière 0 - Wolves | Lunner 2
+myR | Kami 2 - SFG | Byron 1
+LSE | PeW 2 - Wolves | Lunner 0
+iStudying 2 - BKROG | WTFox 0
+BKROG | WTFox 0 - myR | Kami 2
+
+Pool C8
+NVS | Jesuischoq 2 - NighT 0
+mYi | Destany 2 - kitkatzlo 0
+Loud | Sinogara W - fullmetal DQ
+Sma W - RvG | Solo DQ
+ORO | Iberyes 2 - MiraïShogun 0
+BMS | Neeroz 2 - Xymp 0
+Oxyzz 2 - Zhaxean 0
+RobbieAK47 2 - Riamu 0
+R-B | | raphalebgtueur 2 - cocopeps 0
+FITOU | BlackTar 2 - KamiTheCookie 0
+cocopeps W - fullmetal DQ
+NG | | MugiwaraNoBrando 2 - BKROG | Red iroS 0
+Lupa 2 - Guilshark 1
+BKROG | Red iroS W - RvG | Solo DQ
+FCP | Quenouille 2 - Dyl 1
+Inami 2 - JB | | Dawoo 1
+Jarong 1 - EL | Typhlo 2
+Saora 2 - EQUALITY | Modesty 0
+Riamu 2 - KamiTheCookie 0
+Loud | Sinogara 2 - R-B | | raphalebgtueur 0
+NG | | MugiwaraNoBrando 2 - Sma 0
+MiraïShogun 0 - JB | | Dawoo 2
+BMS | Neeroz 2 - Lupa 0
+NighT 0 - Dyl 2
+RobbieAK47 2 - FITOU | BlackTar 0
+Oxyzz 2 - EL | Typhlo 0
+kitkatzlo 0 - EQUALITY | Modesty 2
+NVS | Jesuischoq 2 - FCP | Quenouille 0
+mYi | Destany 2 - Saora 0
+Xymp 1 - Guilshark 2
+Zhaxean 1 - Jarong 2
+ORO | Iberyes 2 - Inami 1
+R-B | | raphalebgtueur 2 - Riamu 1
+Lupa 0 - BKROG | Red iroS 2
+mYi | Destany 2 - Oxyzz 0
+FITOU | BlackTar 2 - cocopeps 1
+Saora 2 - JB | | Dawoo 0
+Loud | Sinogara 2 - NG | | MugiwaraNoBrando 0
+Sma 1 - Guilshark 2
+FCP | Quenouille 1 - Jarong 2
+EL | Typhlo 2 - Dyl 1
+NVS | Jesuischoq 2 - ORO | Iberyes 0
+FITOU | BlackTar 2 - BKROG | Red iroS 0
+BMS | Neeroz 1 - RobbieAK47 2
+Inami 2 - EQUALITY | Modesty 1
+Oxyzz 2 - FITOU | BlackTar 0
+EL | Typhlo 0 - Saora 2
+Guilshark 1 - R-B | | raphalebgtueur 2
+Inami 2 - Jarong 1
+BMS | Neeroz 2 - Saora 0
+ORO | Iberyes 0 - R-B | | raphalebgtueur 2
+NG | | MugiwaraNoBrando 2 - Inami 0
+R-B | | raphalebgtueur 0 - BMS | Neeroz 2
+NG | | MugiwaraNoBrando 2 - Oxyzz 0
+RobbieAK47 2 - NVS | Jesuischoq 0
+mYi | Destany 2 - Loud | Sinogara 0
+Loud | Sinogara 0 - BMS | Neeroz 2
+NVS | Jesuischoq 2 - NG | | MugiwaraNoBrando 0
+
+Pool D8
+Estus W - DMT | Follow DQ
+Leroy._. W - Noska DQ
+Sael W - STI | Foa DQ
+ME | Mezcaul 2 - Joyleen 0
+GO | Naskino 2 - Membre 0
+El_Bardo 2 - Ferbz 0
+Midoriss 2 - CJG | Zyklop 0
+Klannuce 2 - Poôtée 0
+Bluetenx 2 - AESE | Honyoru 0
+Bûch | Lil Marty 2 - Cauet Burger | ARTY-CODE-1 0
+RIZE | RAMBOSS 2 - Fan2Victouffe 0
+ARK | Icoutoir 2 - Penguin | (")> 1
+Gumzone 2 - Rizâdon 0
+Membre W - STI | Foa DQ
+Fan2Victouffe W - Noska DQ
+ME | Mezcaul 2 - Klannuce 0
+Milon 2 - rou 1
+Ferbz 0 - AESE | Honyoru 2
+Midoriss 2 - Gumzone 0
+RIZE | RAMBOSS 2 - Leroy._. 0
+ARK | Icoutoir 2 - Bûch | Lil Marty 1
+GO | Naskino 2 - Sael 0
+Joyleen 0 - Poôtée 2
+Penguin | (")> 2 - Cauet Burger | ARTY-CODE-1 1
+ASPTT | Nass 2 - Zhifter 0
+Zhifter W - DMT | Follow DQ
+Adenine 2 - Krazzy 0
+El_Bardo 2 - Bluetenx 0
+CJG | Zyklop 1 - Rizâdon 2
+ME | Mezcaul 2 - ARK | Icoutoir 0
+Bûch | Lil Marty 2 - Fan2Victouffe 0
+Gumzone 2 - Membre 0
+ASPTT | Nass 0 - Estus 2
+Sael 0 - Rizâdon 2
+Adenine 2 - Milon 0
+Leroy._. 1 - Penguin | (")> 2
+El_Bardo 2 - Midoriss 1
+Krazzy 1 - rou 2
+Klannuce 0 - Zhifter 2
+ASPTT | Nass 2 - Poôtée 0
+Milon 2 - AESE | Honyoru 0
+ASPTT | Nass 2 - Penguin | (")> 0
+Bluetenx 0 - rou 2
+GO | Naskino 2 - Adenine 0
+Bûch | Lil Marty 2 - Zhifter 0
+Milon 2 - Rizâdon 0
+Midoriss 1 - ASPTT | Nass 2
+Gumzone 0 - rou 2
+RIZE | RAMBOSS 2 - Estus 1
+Adenine 2 - Bûch | Lil Marty 0
+ME | Mezcaul 2 - El_Bardo 0
+ARK | Icoutoir 2 - Milon 0
+ASPTT | Nass 0 - ARK | Icoutoir 2
+Estus 2 - rou 0
+GO | Naskino 2 - RIZE | RAMBOSS 0
+Estus 2 - Adenine 0
+El_Bardo 2 - Estus 0
+RIZE | RAMBOSS 2 - ARK | Icoutoir 1
+
+Pool A1
+T1 | MkLeo W - MR.5 | Gomnajuro DQ
+BAW | 123 Viva L'Algérie W - HKM | Tree DQ
+Wolves | Pipwolf 2 - Eizzah 0
+BB | Silons 2 - Inos 0
+aZa 0 - Bûch | Luytr 2
+Incendium 2 - Axe.L 0
+EVL | B4RTHOLOMÉ 2 - Little Macaroni 0
+CC | Baston Lagaffe 0 - HuB | ~Rain*No*Akuma~ 2
+MC | GANDIX 2 - Tanoukis 0
+Kiro 2 - Otakujunior 0
+Lopraz 2 - Dawn 0
+FireXBoy97 2 - DBZ | Vegetoz 0
+LOSC | Greil 2 - MFC | Luxhord 0
+DBZ | Vegetoz W - HKM | Tree DQ
+CC | Baston Lagaffe W - MR.5 | Gomnajuro DQ
+T1 | MkLeo 2 - HuB | ~Rain*No*Akuma~ 0
+BB | Silons 2 - Bûch | Luytr 0
+BAW | 123 Viva L'Algérie 0 - FireXBoy97 2
+Eizzah 0 - Dawn 2
+Inos 2 - aZa 0
+Otakujunior 2 - Axe.L 0
+Vertiges | Espeo 1 - Personne 2
+MFC | Luxhord 0 - Little Macaroni 2
+MCorp | alonzo 2 - Erelys 1
+Kiro 2 - Incendium 0
+Bûch | Luytr 2 - Otakujunior 0
+LOSC | Greil 2 - EVL | B4RTHOLOMÉ 0
+Wolves | Pipwolf 2 - Lopraz 0
+MC | GANDIX 2 - MCorp | alonzo 0
+Tanoukis 0 - Erelys 2
+T1 | MkLeo 2 - FireXBoy97 0
+Leazin 2 - LeopoldSEGA 0
+Lopraz 2 - Little Macaroni 0
+LOSC | Greil 0 - Kiro 2
+Incendium 2 - Inos 1
+EVL | B4RTHOLOMÉ 2 - Dawn 1
+BAW | 123 Viva L'Algérie 0 - Erelys 2
+MCorp | alonzo 2 - DBZ | Vegetoz 0
+BB | Silons 2 - Wolves | Pipwolf 1
+Leazin 2 - Personne 0
+LeopoldSEGA 0 - Vertiges | Espeo 2
+Lopraz 1 - Bûch | Luytr 2
+MC | GANDIX 2 - Leazin 0
+HuB | ~Rain*No*Akuma~ 2 - Vertiges | Espeo 0
+Incendium 2 - EVL | B4RTHOLOMÉ 1
+Personne 2 - CC | Baston Lagaffe 1
+T1 | MkLeo 2 - BB | Silons 0
+Leazin 2 - Bûch | Luytr 0
+Kiro 0 - MC | GANDIX 2
+Erelys 2 - HuB | ~Rain*No*Akuma~ 0
+Personne 2 - MCorp | alonzo 0
+FireXBoy97 2 - Incendium 0
+Wolves | Pipwolf 2 - Personne 0
+LOSC | Greil 2 - Erelys 0
+Wolves | Pipwolf 2 - FireXBoy97 1
+Leazin 2 - LOSC | Greil 0
+Kiro 0 - Wolves | Pipwolf 2
+BB | Silons 2 - Leazin 0
+
+Pool C7
+Oplon | NaetorU 2 - Glb 0
+Kichiro W - Valanph DQ
+Nae W - DaOuitcha DQ
+WTX | Magic 2 - SLY | Yoshi 0
+PATOO 2 - MonkeyDOzio 0
+gatan W - AOMA | Azrael DQ
+Jochen 2 - LETZ | Lucimp 0
+noetic | Deox6 W - Tropico DQ
+DISCO ELYSIUM | Hen 2 - EQUIPIER | Maccao 0
+BSK | Tarmogoyf 2 - DLT | Ocarno 0
+GT | L'Obez W - ZZ | Mashou DQ
+Kichiro W - Nae DQ
+DaOuitcha W - Valanph DQ
+ZZ | Mashou W - Tropico DQ
+Zairo 2 - Infer X 0
+Geeni 2 - Cano 0
+Infer X W - AOMA | Azrael DQ
+P5 | Achama 2 - 2CG | Naunaud 1
+zozo 2 - ST | midfirewear 1
+DAT | RepTile 1 - Necross 2
+SLY | Yoshi 0 - LETZ | Lucimp 2
+LETZ | Lucimp W - Nae DQ
+noetic | Deox6 2 - GT | L'Obez 0
+WTX | Magic 0 - Jochen 2
+Geeni 2 - DISCO ELYSIUM | Hen 0
+Cano 2 - EQUIPIER | Maccao 0
+WTX | Magic W - DaOuitcha DQ
+gatan 0 - Zairo 2
+BSK | Tarmogoyf 2 - zozo 0
+DLT | Ocarno 0 - ST | midfirewear 2
+Glb 0 - DAT | RepTile 2
+PATOO 2 - P5 | Achama 1
+P5 | Achama W - ZZ | Mashou DQ
+MonkeyDOzio 1 - 2CG | Naunaud 2
+Oplon | NaetorU 2 - Necross 0
+noetic | Deox6 2 - Geeni 1
+Kichiro 2 - BSK | Tarmogoyf 0
+gatan 0 - ST | midfirewear 2
+zozo 0 - Infer X 2
+Zairo 0 - Jochen 2
+DISCO ELYSIUM | Hen 2 - DAT | RepTile 1
+GT | L'Obez 2 - 2CG | Naunaud 1
+Necross 2 - Cano 0
+Oplon | NaetorU 2 - PATOO 0
+WTX | Magic 2 - ST | midfirewear 0
+Infer X 1 - LETZ | Lucimp 2
+DISCO ELYSIUM | Hen 2 - GT | L'Obez 1
+P5 | Achama 0 - Necross 2
+PATOO 2 - WTX | Magic 0
+Geeni 2 - LETZ | Lucimp 0
+BSK | Tarmogoyf 2 - DISCO ELYSIUM | Hen 0
+Zairo 0 - Necross 2
+Jochen 1 - noetic | Deox6 2
+BSK | Tarmogoyf 0 - PATOO 2
+Geeni 1 - Necross 2
+Jochen 0 - PATOO 2
+Oplon | NaetorU 2 - Kichiro 0
+Kichiro 2 - Necross 0
+
+Pool A8
+Bambi 2 - VIE | Faaith 0
+Himatsu 2 - STONEGANG | JonkoKong 0
+mCon | Ramses 2 - Naiden 0
+UCL | SpiralKO W - Natsu Firefly DQ
+Devil G. 0 - BxH | | Orik 2
+Captain 2 - CY | Afro 0
+Browkoo W - Damb | Umi DQ
+Lucky 2 - Peepi 0
+adom 2 - Lilian5112 0
+Aspifouette 2 - DZE | micha 1
+ES | Ib 2 - Pokscy 0
+STONEGANG | JonkoKong W - Natsu Firefly DQ
+TND | Zenatti 2 - Gregs 1
+Kefh 1 - ONI | | Dawn 2
+Dalil 0 - HuB | Ben Cruz 2
+Pilex 1 - Tintin 2
+Peepi W - Damb | Umi DQ
+Naiden 0 - Devil G. 2
+Himatsu 2 - UCL | SpiralKO 0
+mCon | Ramses 2 - BxH | | Orik 0
+Bambi 2 - Aspifouette 0
+Tropped 2 - Mikey 0
+VIE | Faaith 0 - DZE | micha 2
+ES | Ib 1 - TND | Zenatti 2
+adom 2 - HuB | Ben Cruz 0
+Lilian5112 0 - Dalil 2
+Captain 0 - Tintin 2
+Lucky 2 - Browkoo 1
+Pokscy 1 - Gregs 2
+CY | Afro 0 - Pilex 2
+Mikey 0 - Kefh 2
+Tropped 2 - ONI | | Dawn 0
+Captain 2 - STONEGANG | JonkoKong 0
+Aspifouette 2 - Peepi 0
+BxH | | Orik 2 - Dalil 0
+UCL | SpiralKO 0 - Pilex 2
+Himatsu 0 - TND | Zenatti 2
+Browkoo 2 - DZE | micha 0
+Lucky 1 - adom 2
+HuB | Ben Cruz 1 - Devil G. 2
+mCon | Ramses 2 - Bambi 0
+Tropped 2 - Tintin 0
+ONI | | Dawn 0 - Gregs 2
+ES | Ib 2 - Kefh 0
+Aspifouette 1 - BxH | | Orik 2
+Devil G. 2 - Browkoo 0
+ES | Ib 2 - Pilex 0
+Captain 2 - Gregs 0
+Tropped 2 - adom 0
+Himatsu 2 - Devil G. 0
+Tintin 2 - BxH | | Orik 1
+Bambi 2 - Captain 0
+mCon | Ramses 2 - TND | Zenatti 1
+Himatsu 1 - Bambi 2
+Lucky 2 - ES | Ib 1
+Lucky 2 - Tintin 0
+TND | Zenatti 0 - Lucky 2
+adom 0 - Bambi 2
+
+Pool E1
+
+Pool E2
+
+Pool E3
+
+Pool E4
