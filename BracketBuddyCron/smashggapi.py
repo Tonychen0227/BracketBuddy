@@ -232,6 +232,7 @@ class API:
                 "eventId": event_id,
                 "name": entrant["name"],
                 "standing": None if entrant["standing"] is None else entrant["standing"]["placement"],
+                "standingIsFinal": False if entrant["standing"] is None else entrant["standing"]["isFinal"],
                 "id": str(entrant["id"]),
                 "isDisqualified": entrant["isDisqualified"],
                 "seeding": entrant["initialSeedNum"],

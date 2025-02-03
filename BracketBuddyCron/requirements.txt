@@ -4,3 +4,4 @@ graphqlclient==0.2.4
 DateTime~=4.9
 requests~=2.32.3
 urllib3==2.3.0
+logger~=1.4
