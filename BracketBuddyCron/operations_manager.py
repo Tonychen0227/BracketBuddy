@@ -104,10 +104,10 @@ class OperationsManager:
 
                 final_event_entrants.append(entrant)
 
-            print(f"Did not need full update! Curated entrant list has size {len(final_event_entrants)}")
+            self.logger.log(f"Did not need full update! Curated entrant list has size {len(final_event_entrants)}")
         else:
             final_event_entrants.extend(event_entrants)
-            print(f"Entrants needed full update! Entrant list has size {len(final_event_entrants)}")
+            self.logger.log(f"Entrants needed full update! Entrant list has size {len(final_event_entrants)}")
 
         entrants_deleted = 0
 
