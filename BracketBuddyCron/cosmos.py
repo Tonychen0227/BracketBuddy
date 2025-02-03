@@ -73,7 +73,7 @@ class CosmosDB:
     def create_event(self, event):
         existing_event = self.get_event(event["id"])
         event["setsLastUpdated"] = 1 if existing_event is None else existing_event["setsLastUpdated"]
-        event["entrantsLastUpdated"] = 1 if existing_event is None else existing_event["entrantsLastUpdated"]
+        event["entrantsLastUpdated"] = 1 if existing_event is None or "entrantsLastUpdated" not in existing_event else existing_event["entrantsLastUpdated"]
         return self.__upsert_event(event)
 
     def get_event(self, event_id):
