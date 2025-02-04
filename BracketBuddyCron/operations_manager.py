@@ -75,7 +75,7 @@ class OperationsManager:
 
         if entrants_last_updated is None or entrants_last_updated < current_time:
             should_do_full_update = True
-            self.cosmos.update_event_entrants_last_updated(event_id, current_time)
+            self.cosmos.update_event_entrants_last_updated(event_id, datetime.datetime.now(datetime.timezone.utc).timestamp())
 
         event_entrants = self.api.get_ult_event_entrants(event_id)
         db_entrants = self.cosmos.get_event_entrants(event_id)
